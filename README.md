@@ -1,0 +1,2 @@
+1.以StartPreview为例
+2.HeartBeat的IsConnect为发送心跳包
