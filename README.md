@@ -15,10 +15,12 @@ HttpRequest类简单对发送http请求进行了封装
 心跳包大概流程：
 1.判断是否取得fingerprint：
 N:发送取fingerprint的请求，把fingerprint存到某一位置中
-2.发送心跳包确认连接
-3.调用HttpRequest的open方法，发送某操作请求，返回的json用data接收
+无论取不取到fingerprint，以True/False返回
+某操作请求的流程：
+1.发送心跳包确认连接
+2.调用HttpRequest的open方法，发送某操作请求，返回的json用data接收
 ex：data=HR.open("camera._startPreview",parameters=param)
 第一个入参是哪个操作；第二个入参是操作所需的参数，没有就不用传
-4.unittest的验证方法去验证返回的data
+3.unittest的验证方法去验证返回的data
 
 用@parameterized.expand进行参数化，目的是改变个别传递的参数，复用同一段代码来进行测试
