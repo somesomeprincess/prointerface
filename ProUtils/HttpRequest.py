@@ -19,6 +19,18 @@ class HttpRequest():
         data=json.loads(result)
         return data
 
+    def openCommon(self,param,url=Constant.Common_url):
+        header={'Fingerprint':Constant.fingerprint,'Content-Type':'application/json','User-Agent':'Apache-HttpClient/4.4'}
+        jsondata=param
+        jsondata=json.dumps(jsondata)
+
+        request=urllib2.Request(url,jsondata,headers=header)
+
+        resp=urllib2.urlopen(request,timeout=5)
+        result=resp.read()
+        data=json.loads(result)
+        return data
+
 
     def openHeart(self,url=Constant.Heart_url,**kw):
         #header={'Fingerprint':Constant.fingerprint,'Content-Type':'application/json'}
