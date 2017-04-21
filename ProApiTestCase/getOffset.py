@@ -3,7 +3,7 @@ from ProUtils import HttpRequest
 import unittest
 from ProUtils import Constant,CommomUtils
 
-
+@unittest.skip()
 class getOffset(unittest.TestCase):
 
     def testGetoffset(self):
@@ -22,4 +22,13 @@ class getOffset(unittest.TestCase):
         self.assertIsNot(_3dleft, '获取offset_3d_left失败！')
         _3dright = data['results']['offset_3d_right']
         self.assertIsNot(_3dright, '获取offset_3d_right失败！')
+
+    #错误的Fingerprint
+    @unittest.skip()
+    def testStartPreview_otherabnormal(self):
+        HR = HttpRequest.HttpRequest()
+        data = HR.open("camera._getOffset",fingerprint='')
+        self.assertIsNotNone(data, '获取data失败！data:%s' % data)
+        self.assertTrue(data['state'] == 'exception')
+        self.assertTrue(data.has_key('error'), '获取error失败')
 

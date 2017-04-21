@@ -1,9 +1,9 @@
-import json
-class StartPreviewParam():
+#data不包含name的
+class StartPreview():
     name = "camera._startPreview"
-    def __init__(self,stimime="h264",stiframe=30,stiwidth=1920,
-                 stibitrate=1000,stiheight=960,stimode="pano",orimime='h264',oriframe=30,oriwidth=1920,
-                 oribitrate=15000,oriheight=1440,saveori='false',**kw):
+    def __init__(self,stimime,stiframe,stiwidth,
+                 stibitrate,stiheight,stimode,orimime,oriframe,oriwidth,
+                 oribitrate,oriheight,saveori,**kw):
 
         self.stimime=stimime
         self.stiframe=stiframe
@@ -18,7 +18,7 @@ class StartPreviewParam():
         self.oriheitht=oriheight
         self.saveori=saveori
 
-        self.data = "parameters": {
+        self.data =  {
             "stiching": {"mime": self.stimime, "framerate": self.stiframe, "width": self.stiwidth,
                          "bitrate": self.stibitrate, "height": self.stiheight, "mode": self.stimode},
             "origin": {"mime": self.orimime, "framerate": self.oriframe, "width": self.oriwidth,
@@ -30,10 +30,10 @@ class StartPreviewParam():
                 self.data['parameters'][key] = value
 
 
-        #print(self.data)
+        print(self.data)
 
     def getJsonData(self):
         return self.data
 
 if __name__=='__main__':
-    s=StartPreviewParam(stimime='h265')
+    s=StartPreview(stimime='h265')

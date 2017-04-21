@@ -1,4 +1,4 @@
-
+#data是包含name的
 class StartPreviewParam():
     name = "camera._startPreview"
     def __init__(self,name="camera._startPreview",stimime="h264",stiframe=30,stiwidth=1920,
