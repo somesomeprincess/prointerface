@@ -1,10 +1,11 @@
 #coding:utf-8
 from ProUtils import HttpRequest
-from ProUtils import Constant
+from ProUtils import Constant,CommomUtils
 import unittest
 
 class Disconnect(unittest.TestCase):
-    def atestDisconneact(self):
+    def testDisconneact(self):
+        CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._disconnect")
         print(Constant.fingerprint)

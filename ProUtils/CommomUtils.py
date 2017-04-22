@@ -40,8 +40,8 @@ def StartPreviewTestCaseFromExcel(sheetname):
         oriheight=table.cell(i, 12).value
         saveorigin = table.cell(i, 13).value
 
-        subparam = StartPreviewParam.StartPreviewParam(stimime=stimime, stiframe=stiframerate,stiwidth=stiwidth,stibitrate=stibitrate,stiheight=stiheight,stimode=stimode,
-                                                       orimime=orimime,oriframe=oriframerate,oriwidth=oriwidth,oribitrate=oribitrate,oriheight=oriheight,saveori=saveorigin).getJsonData()
+        subparam = StartPreviewParam.StartPreview(stimime=stimime, stiframe=stiframerate, stiwidth=stiwidth, stibitrate=stibitrate, stiheight=stiheight, stimode=stimode,
+                                                  orimime=orimime, oriframe=oriframerate, oriwidth=oriwidth, oribitrate=oribitrate, oriheight=oriheight, saveori=saveorigin).getJsonData()
         # print(case,param.getJsonData())
         ok = (case, subparam)
         ps.append(ok)

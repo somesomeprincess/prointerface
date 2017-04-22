@@ -3,25 +3,17 @@ import threading
 
 from time import ctime,sleep
 from ProUtils import HttpRequest
-from ProUtils import CommomUtils,Constant
+from ProUtils import CommomUtils
 import random
+import unittest
 
 
 def sendHeart():
-    while True:
+    for i in range(11):
         print('sendHeart----------%s'%ctime())
         sleep(2)
 
-def sendTakePic():
-    for i in range(2):
-        print('sendTakePic---------%s'%ctime())
-        sleep(8)
 
-def sendRecord():
-    print('start record----')
-    sleep(15)
-    print('end record---')
-    sleep(5)
 
 def sendPicAndRecord():
     for i in range(100):
@@ -34,8 +26,8 @@ def sendPicAndRecord():
         sleep(10)
 
 
-def TakePic():
-    for i in range(10):
+def TakePic(num):
+    for i in range(num):
         print('TakePic')
         # 发送TakePicture请求
         HR = HttpRequest.HttpRequest()
@@ -49,31 +41,18 @@ def TakePic():
         sleep(10)
 
 def Record():
-    startRecord()
-    #sleep(random.randint(5,10))
-    sleep(15)
-    stopRecord()
-    sleep(5)
-
-def startRecord():
-    print('StartRecording')
-
-    HR = HttpRequest.HttpRequest()
-    # HR.getFingerPrint()
-    sub_data = {"audio": {"bitrate": 128, "mime": "aac", "samplerate": 48000, "sampleFormat": "s16",
-                          "channelLayout": "stereo"},
-                "origin": {"mime": "h264", "framerate": 30, "width": 3200, "bitrate": 40960, "height": 2400,
-                           "saveOrigin": 'true'}}
-    data = HR.open("camera._startRecording", parameters=sub_data)
-    print(data)
-
-def stopRecord():
-    print('stoprecording---')
-    HR = HttpRequest.HttpRequest()
-    enddata = HR.open("camera._stopRecording")
-
-    print(enddata)
-
+    for i in range():
+        print('StartRecording')
+        # 发送TakePicture请求
+        HR = HttpRequest.HttpRequest()
+        # HR.getFingerPrint()
+        sub_data = {"audio":{"bitrate":128,"mime":"aac","samplerate":48000,"sampleFormat":"s16","channelLayout":"stereo"},
+                    "origin":{"mime":"h264","framerate":30,"width":3200,"bitrate":40960,"height":2400,"saveOrigin":'true'}}
+        data = HR.open("camera._startRecording", parameters=sub_data)
+        print(data)
+        sleep(random.randint(10,20))
+        enddata=HR.open("camera._endRecording")
+        print(enddata)
 
 def PicAndRecord():
     for i in range(100):
@@ -93,8 +72,8 @@ def PicAndRecord():
                        "saveOrigin": 'true'}}
         recdata = HR.open("camera._startRecording", parameters=sub_data_rec)
         print(recdata)
-        sleep(random.randint(5, 10))
-        enddata = HR.open("camera._stopRecording")
+        sleep(random.randint(10, 20))
+        enddata = HR.open("camera._endRecording")
         print(enddata)
         sleep(10)
 
@@ -108,16 +87,15 @@ def Heart():
 threads=[]
 t1=threading.Thread(target=Heart)
 threads.append(t1)
-t2=threading.Thread(target=TakePic)
+t2=threading.Thread(target=TakePic,args=100)
 threads.append(t2)
 t3=threading.Thread(target=Record)
 t4=threading.Thread(target=PicAndRecord)
 t5=threading.Thread(target=sendPicAndRecord)
 t6=threading.Thread(target=sendHeart)
-tRecord=threading.Thread(target=sendRecord)
 if __name__=='__main__':
     #CommomUtils.Connect()
-    mode=5
+    mode=4
     if(mode==1):
         t1.setDaemon(True)
         t2.setDaemon(True)
@@ -150,19 +128,28 @@ if __name__=='__main__':
         t5.start()
         t6.join()
         t5.join()
-    elif(mode==5):
-        t6.setDaemon(True)
-        tRecord.setDaemon(True)
-
-        t6.start()
-        tRecord.start()
-        t6.join()
-        tRecord.join()
-
-
-
 
     print('\nall over %s'%ctime())
-    HR = HttpRequest.HttpRequest()
-    data = HR.open("camera._disconnect")
-    print(data)
+
+class MutilThread(unittest.TestCase):
+    def sendTakePic(self):
+        for i in range(2):
+            print('sendTakePic---------%s' % ctime())
+            sleep(5)
+
+    def testOne(self):
+        t5 = threading.Thread(target=MutilThread.sendTakePic)
+        t6 = threading.Thread(target=sendHeart)
+        t6.setDaemon(True)
+        t5.setDaemon(True)
+        t5.start()
+        t6.start()
+        t5.join()
+        t6.join()
+
+
+    # def testOne(self):
+    #     t5 = threading.Thread(target=sendTakePic)
+    #     t5.setDaemon(True)
+    #     t5.start()
+    #     t5.join()

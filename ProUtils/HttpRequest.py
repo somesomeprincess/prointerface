@@ -1,3 +1,4 @@
+#coding:utf-8
 import urllib2
 import json
 import time
@@ -6,7 +7,9 @@ from model import StartPreviewParam
 class HttpRequest():
 
     #入参要传name
-    def open(self,reqname,fingerprint=Constant.fingerprint,url=Constant.Common_url,**kw):
+    def open(self,reqname,fingerprint=None,url=Constant.Common_url,**kw):
+        if(fingerprint==None):
+            fingerprint=Constant.fingerprint
         header={'Fingerprint':fingerprint,'Content-Type':'application/json','User-Agent':'Apache-HttpClient/4.4'}
         jsondata={'name':reqname}
         jsondata.update(kw)
@@ -14,14 +17,14 @@ class HttpRequest():
 
         request=urllib2.Request(url,jsondata,headers=header)
 
-        resp=urllib2.urlopen(request,timeout=5)
+        resp=urllib2.urlopen(request,timeout=30)
         result=resp.read()
         data=json.loads(result)
         return data
 
     #入参不用传name
-    def openCommon(self,param,fingerprint=Constant.fingerprint,url=Constant.Common_url):
-        header={'Fingerprint':fingerprint,'Content-Type':'application/json','User-Agent':'Apache-HttpClient/4.4'}
+    def openCommon(self,param,fingerprint,url=Constant.Common_url):
+        header={'Fingerprint':Constant.fingerprint,'Content-Type':'application/json','User-Agent':'Apache-HttpClient/4.4'}
         jsondata=json.dumps(param)
         request=urllib2.Request(url,jsondata,headers=header)
         resp=urllib2.urlopen(request,timeout=5)
@@ -52,6 +55,9 @@ class HttpRequest():
             if(data['state']=='done'):
                 print(data['results']['Fingerprint'])
                 Constant.fingerprint=data['results']['Fingerprint']
+            elif(data['error']['description']==u'already connected by another'):
+                self.open("camera._disconnect")
+                return False
             else:
                 time.sleep(10)
                 print('sleep')

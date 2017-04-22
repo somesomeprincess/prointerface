@@ -1,0 +1,25 @@
+#coding:utf-8
+from ProUtils import HttpRequest
+from ProUtils import Constant,CommomUtils
+import unittest
+
+class GetVersion(unittest.TestCase):
+    def testGetVersion_ok(self):
+        CommomUtils.Connect()
+        HR=HttpRequest.HttpRequest()
+        data=HR.open("camera._getVersion")
+        self.assertIsNotNone(data['state'],'获取state失败！')
+        self.assertTrue(data['state']=='done','state不等于done！')
+        self.assertTrue(data.has_key('results'),'没有results关键字！')
+        self.assertIsNotNone(data['results']['version'],'获取version失败！')
+
+    def testGetVersion_fail(self):
+        CommomUtils.Connect()
+        HR = HttpRequest.HttpRequest()
+        data = HR.open("camera._getVersion",fingerprint='')
+        self.assertIsNotNone(data['state'], '获取state失败！')
+        self.assertTrue(data['state'] == 'exception', 'state不等于exception！')
+        self.assertTrue(data.has_key('error'), '没有error关键字！')
+        self.assertIsNotNone(data['error']['description'], '获取error description失败！')
+        self.assertIsNotNone(data['error']['code'], '获取error code失败！')
+
