@@ -1,14 +1,18 @@
 #coding:utf-8
 from ProUtils import HttpRequest,CommomUtils,Constant
 import unittest
-
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 #待机状态下会报错
 class GetImageParam(unittest.TestCase):
-    def testGetImageParam(self):
+    def setUp(self):
         CommomUtils.Connect()
+
+    def testGetImageParam(self):
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._getImageParam",fingerprint=Constant.fingerprint)
-        print(data)
         self.assertTrue(data['state'] == 'done')
         self.assertTrue(data.has_key('results'), '获取results失败')
         self.assertIsNotNone(data['results']['hue'],'获取hue失败，hue:%s'%data['results']['hue'])
@@ -34,14 +38,11 @@ class GetImageParam(unittest.TestCase):
         self.assertIsNotNone(data['results']['ae_meter'], '获取ae_meter失败，hue:%s' % data['results']['ae_meter'])
         self.assertIsInstance(data['results']['ae_meter'], int)
 
-
     #错误的Fingerprint
 
     def testGetImageParam_otherabnormal(self):
-        CommomUtils.Connect()
         HR = HttpRequest.HttpRequest()
-        data = HR.open("camera._getOffset",fingerprint='')
-        print(data)
+        data = HR.open("camera._getImageParam",fingerprint='')
         self.assertIsNotNone(data, '获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'exception')
         self.assertTrue(data.has_key('error'), '获取error失败')

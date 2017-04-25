@@ -17,22 +17,32 @@ class TakePicture():
         self.storagepath=storagepath
         self.oriheitht=oriheight
         self.saveori=saveori
+        if(stimime and stiwidth and stiheight and stimode):
+            if (map and algorithm):
+                self.data = {
+                    "stiching": {"mime": self.stimime, "width": self.stiwidth,
+                                 "height": self.stiheight, "mode": self.stimode, "map": map, "algorithm": algorithm},
+                    "origin": {"mime": self.orimime, "width": self.oriwidth,
+                               "height": self.oriheitht, "saveOrigin": self.saveori}}
+            else:
+                self.data = {
+                    "stiching": {"mime": self.stimime, "width": self.stiwidth,
+                                 "height": self.stiheight, "mode": self.stimode},
+                    "origin": {"mime": self.orimime, "width": self.oriwidth,
+                               "height": self.oriheitht, "saveOrigin": self.saveori}}
+        else:
+            self.data = {"origin": {"mime": self.orimime, "width": self.oriwidth,"height": self.oriheitht, "saveOrigin": self.saveori}}
 
-        self.data =  {
-            "stiching": {"mime": self.stimime, "width": self.stiwidth,
-                          "height": self.stiheight, "mode": self.stimode},
-            "origin": {"mime": self.orimime,  "width": self.oriwidth,
-                        "height": self.oriheitht,"saveOrigin": self.saveori}}
+
 
         for key, value in kw.items():
             if (key not in self.data['parameters']):
                 self.data['parameters'][key] = value
 
-
-        print(self.data)
-
     def getJsonData(self):
         return self.data
 
 if __name__=='__main__':
-    s=TakePicture(stimime='h265')
+    a=None
+    if(a):
+        print('true')

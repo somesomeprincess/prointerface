@@ -12,7 +12,6 @@ class GetStoragePath(unittest.TestCase):
         CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._getStoragePath")
-        print(data)
         self.assertIsNotNone(data['state'],'获取state失败！')
         self.assertTrue(data['state']=='done','state不等于done！')
         self.assertTrue(data.has_key('results'),'没有results关键字！')

@@ -27,11 +27,12 @@ class StartPreview():
                        "saveOrigin": self.saveori}}
 
         for key, value in kw.items():
+            '''
             if (key not in self.data['parameters']):
                 self.data['parameters'][key] = value
-
-
-        print(self.data)
+            '''
+            if (key not in self.data.keys()):
+                self.data[key] = value
 
     def getJsonData(self):
         return self.data

@@ -1,7 +1,10 @@
 #coding:utf-8
 from ProUtils import HttpRequest,CommomUtils,Constant
 import unittest
-
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 #待机状态下会报错
 class StopLive(unittest.TestCase):
     param = {
@@ -10,10 +13,12 @@ class StopLive(unittest.TestCase):
                    "saveOrigin": 'false'},
         "stiching": {"mime": "h264", "mode": "pano", "framerate": 30, "width": 3840, "bitrate": 15360, "height": 1920,
                      "_liveUrl": "rtmp://127.0.0.1/live/live"}}
+
+    def setUp(self):
+        CommomUtils.Connect()
+
     # 先请求了startRecord,请求成功
     def testStopLive_ok(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
 
         start = HR.open("camera._stopLive",self.param)
@@ -24,11 +29,8 @@ class StopLive(unittest.TestCase):
 
     # 直接请求，请求失败
     def testStopLive_nostart(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._stopLive")
-        print(data)
         self.assertIsNotNone(data, u'获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'error')
         err=data['error']
@@ -38,8 +40,6 @@ class StopLive(unittest.TestCase):
 
     # 错误的Fingerprint
     def stopStopLive_errFP(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
         start = HR.openCommon(self.param)
         if (start['state'] == 'done'):

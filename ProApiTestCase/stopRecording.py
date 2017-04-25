@@ -8,9 +8,12 @@ class StopRecording(unittest.TestCase):
                        "channelLayout": "stereo"},
              "origin": {"mime": "h264", "framerate": 30, "width": 3200, "bitrate": 40960, "height": 2400,
                         "saveOrigin": 'true'}}
+
+    def setUp(self):
+        CommomUtils.Connect()
+
     # 先请求了startRecord,请求成功
     def testStopRecording_ok(self):
-        CommomUtils.Connect()
         print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
         start = HR.open("camera._stopRecording",self.param)
@@ -21,11 +24,9 @@ class StopRecording(unittest.TestCase):
 
     # 直接请求，请求失败
     def testStopRecording_nostart(self):
-        CommomUtils.Connect()
         print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._stopRecording")
-        print(data)
         self.assertIsNotNone(data, u'获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'error')
         err=data['error']
@@ -35,7 +36,6 @@ class StopRecording(unittest.TestCase):
 
     # 错误的Fingerprint
     def stopStopRecording_errFP(self):
-        CommomUtils.Connect()
         print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
 

@@ -3,13 +3,17 @@ from ProUtils import HttpRequest
 import unittest
 from ProUtils import Constant,CommomUtils
 from model import StartPreviewParam
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 
 class stopPreview(unittest.TestCase):
+    def setUp(self):
+        CommomUtils.Connect()
 
     #先请求了startPreview,请求成功
     def teststopPreview_ok(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR=HttpRequest.HttpRequest()
         param=StartPreviewParam.StartPreview(stimime='h264', stiframe='30',
                                              stiwidth='1920', stibitrate='1000',
@@ -27,26 +31,22 @@ class stopPreview(unittest.TestCase):
     # 直接请求，请求失败
 
     def teststopPreview_notok(self):
-        CommomUtils.Connect()
         print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._stopPreview")
         print(data)
         self.assertIsNotNone(data, u'获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'exception')
-        self.assertTrue(data.has_key('name'), u'获取name失败')
-        name = data['name']
-
-        self.assertIsNotNone(name['error'], u'获取error失败')
-        self.assertIsNotNone(name['description'], u'获取description失败')
-        self.assertIsNotNone(name['code'], u'获取code失败')
+        self.assertTrue(data.has_key('error'), '没有error关键字')
+        error = data['error']
+        self.assertIsNotNone(error['name'], '获取errorname失败')
+        self.assertIsNotNone(error['description'], '获取description失败')
+        self.assertIsNotNone(error['code'], '获取code失败')
 
 
 
     #错误的Fingerprint
     def teststopPreview_errFP(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR=HttpRequest.HttpRequest()
         param = StartPreviewParam.StartPreview(stimime='h264', stiframe='30',
                                                stiwidth='1920', stibitrate='1000',
@@ -59,8 +59,10 @@ class stopPreview(unittest.TestCase):
             data=HR.open("camera._stopPreview",fingerprint='')
             self.assertIsNotNone(data,'获取data失败！data:%s'%data)
             self.assertTrue(data['state']=='exception')
-            self.assertTrue(data.has_key('name'),'获取name失败')
-            name=data['name']
-            self.assertIsNotNone(name['error'], '获取error失败')
-            self.assertIsNotNone(name['description'], '获取description失败')
-            self.assertIsNotNone(name['code'], '获取code失败')
+            '''
+            self.assertTrue(data.has_key('error'),'没有error关键字')
+            error=data['error']
+            self.assertIsNotNone(error['name'], '获取errorname失败')
+            self.assertIsNotNone(error['description'], '获取description失败')
+            self.assertIsNotNone(error['code'], '获取code失败')
+            '''

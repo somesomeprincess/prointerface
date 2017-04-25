@@ -5,14 +5,12 @@ from ProUtils import Constant,CommomUtils
 
 
 class getOffset(unittest.TestCase):
-
+    def setUp(self):
+        CommomUtils.Connect()
 
     def testGetoffset(self):
-        CommomUtils.Connect()
-        print(Constant.fingerprint)
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._getOffset",fingerprint=Constant.fingerprint)
-        print(data)
         self.assertIsNotNone(data,'获取data失败！data:%s'%data)
         self.assertTrue(data['state']=='done')
         self.assertTrue(data.has_key('results'), '获取results失败')
@@ -29,7 +27,6 @@ class getOffset(unittest.TestCase):
     def testGetoffset_otherabnormal(self):
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._getOffset",fingerprint='')
-
         self.assertIsNotNone(data, '获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'exception')
         self.assertTrue(data.has_key('error'), '获取error失败')

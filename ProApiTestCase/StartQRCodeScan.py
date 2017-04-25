@@ -9,15 +9,16 @@ if sys.getdefaultencoding()!='utf-8':
 
 #文档写idle状态才会done
 class StartQRCodeScan(unittest.TestCase):
-    def testStartQRCodeScan_ok(self):
+    def setUp(self):
         CommomUtils.Connect()
+
+    def testStartQRCodeScan_ok(self):
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._startQRCodeScan")
         self.assertIsNotNone(data['state'],'获取state失败！')
         self.assertTrue(data['state']=='done','state不等于done！')
 
     def testStartQRCodeScan_fail(self):
-        CommomUtils.Connect()
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._startQRCodeScan",fingerprint='')
         self.assertIsNotNone(data['state'], '获取state失败！')

@@ -8,8 +8,10 @@ if sys.getdefaultencoding()!='utf-8':
     sys.setdefaultencoding('utf8')
 
 class GetVersion(unittest.TestCase):
-    def testGetVersion_ok(self):
+    def setUp(self):
         CommomUtils.Connect()
+
+    def testGetVersion_ok(self):
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._getVersion")
         self.assertIsNotNone(data['state'],'获取state失败！')
@@ -18,7 +20,6 @@ class GetVersion(unittest.TestCase):
         self.assertIsNotNone(data['results']['version'],'获取version失败！')
 
     def testGetVersion_fail(self):
-        CommomUtils.Connect()
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._getVersion",fingerprint='')
         self.assertIsNotNone(data['state'], '获取state失败！')

@@ -8,11 +8,14 @@ if sys.getdefaultencoding()!='utf-8':
     sys.setdefaultencoding('utf8')
 #文档写idle状态才会done
 class StopQRCodeScan(unittest.TestCase):
+    def setUp(self):
+        CommomUtils.Connect()
+
+
     #开了start后请求
     def testStartQRCodeScan_ok(self):
-        CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
-        start = HR.open("camera._stopQRCodeScan", self.param)
+        start = HR.open("camera._startQRCodeScan")
         if (start['state'] == 'done'):
             data=HR.open("camera._stopQRCodeScan")
             self.assertIsNotNone(data['state'],'获取state失败！')
@@ -20,7 +23,6 @@ class StopQRCodeScan(unittest.TestCase):
 
     #直接请求
     def testStopQRCodeScan_fail(self):
-        CommomUtils.Connect()
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._stopQRCodeScan")
         self.assertIsNotNone(data['state'], '获取state失败！')
@@ -28,9 +30,8 @@ class StopQRCodeScan(unittest.TestCase):
 
     #错误fingerprint
     def testStopQRCodeScan_wrongFP(self):
-        CommomUtils.Connect()
         HR = HttpRequest.HttpRequest()
-        start = HR.open("camera._startRecording", self.param)
+        start = HR.open("camera._startQRCodeScan")
         if (start['state'] == 'done'):
             data = HR.open("camera._stopQRCodeScan",fingerprint='')
             self.assertIsNotNone(data['state'], '获取state失败！')
