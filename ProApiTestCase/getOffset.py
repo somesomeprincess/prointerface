@@ -29,6 +29,7 @@ class getOffset(unittest.TestCase):
     def testGetoffset_otherabnormal(self):
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._getOffset",fingerprint='')
+
         self.assertIsNotNone(data, '获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'exception')
         self.assertTrue(data.has_key('error'), '获取error失败')

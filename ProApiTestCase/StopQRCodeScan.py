@@ -2,13 +2,17 @@
 from ProUtils import HttpRequest
 from ProUtils import Constant,CommomUtils
 import unittest
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 #文档写idle状态才会done
 class StopQRCodeScan(unittest.TestCase):
     #开了start后请求
     def testStartQRCodeScan_ok(self):
         CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
-        start = HR.open("camera._startRecording", self.param)
+        start = HR.open("camera._stopQRCodeScan", self.param)
         if (start['state'] == 'done'):
             data=HR.open("camera._stopQRCodeScan")
             self.assertIsNotNone(data['state'],'获取state失败！')

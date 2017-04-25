@@ -3,10 +3,14 @@ from ProUtils import HttpRequest
 import unittest
 from ProUtils import Constant,CommomUtils
 from parameterized import parameterized
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 
 class TakePicture(unittest.TestCase):
     #正常情况
-    @parameterized.expand(CommomUtils.StartPreviewTestCaseFromExcel('takePicture_normal'))
+    @parameterized.expand(CommomUtils.StartPreviewTestCaseFromExcel('takePicture_ok'))
     def testTakePicture_normal(self,_,param):
         CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
@@ -21,7 +25,7 @@ class TakePicture(unittest.TestCase):
         self.assertIsNotNone(id, 'id等于空')
 
     #异常情况
-    @parameterized.expand(CommomUtils.StartPreviewTestCaseFromExcel('takePicture_abnormal'))
+    @parameterized.expand(CommomUtils.StartPreviewTestCaseFromExcel('takePicture_err'))
     def testTakePicture_normal(self,_,param):
         CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()

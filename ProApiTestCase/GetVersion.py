@@ -2,6 +2,10 @@
 from ProUtils import HttpRequest
 from ProUtils import Constant,CommomUtils
 import unittest
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 
 class GetVersion(unittest.TestCase):
     def testGetVersion_ok(self):

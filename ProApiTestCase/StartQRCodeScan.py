@@ -2,6 +2,11 @@
 from ProUtils import HttpRequest
 from ProUtils import Constant,CommomUtils
 import unittest
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+
 #文档写idle状态才会done
 class StartQRCodeScan(unittest.TestCase):
     def testStartQRCodeScan_ok(self):

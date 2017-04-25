@@ -17,7 +17,7 @@ class stopPreview(unittest.TestCase):
                                              orimime='h265', oriframe='30',
                                              oriwidth='1920', oribitrate='15000',
                                              oriheight='1440', saveori='false').getJsonData()
-        start = HR.openCommon(param)
+        start = HR.open('camera._startPreview',param)
         if(start['state']=='done'):
             data=HR.open("camera._stopPreview")
             self.assertIsNotNone(data,u'获取data失败！data:%s'%data)
@@ -44,7 +44,7 @@ class stopPreview(unittest.TestCase):
 
 
     #错误的Fingerprint
-    def stopPreview_errFP(self):
+    def teststopPreview_errFP(self):
         CommomUtils.Connect()
         print(Constant.fingerprint)
         HR=HttpRequest.HttpRequest()
