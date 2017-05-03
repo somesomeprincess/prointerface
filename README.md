@@ -1,8 +1,8 @@
 1.以StartPreview为例
 2.HeartBeat的IsConnect为发送心跳包
 
-所有操作请求的url都是基于：{ip}:2000/osc/commands/execute ，其中{ip}为相机的ip地址
-心跳包请求的url是：{ip}:2000//osc/state
+所有操作请求的url都是基于：{ip}:20000/osc/commands/execute ，其中{ip}为相机的ip地址
+心跳包请求的url是：{ip}:20000/osc/state
 
 所有操作请求建立在传输一个有效的Fingerprint参数才能请求成功
 HttpRequest类简单对发送http请求进行了封装
