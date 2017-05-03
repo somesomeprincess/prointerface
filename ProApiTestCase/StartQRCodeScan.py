@@ -15,9 +15,10 @@ class StartQRCodeScan(unittest.TestCase):
     def testStartQRCodeScan_ok(self):
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._startQRCodeScan")
+        print(data)
         self.assertIsNotNone(data['state'],'获取state失败！')
         self.assertTrue(data['state']=='done','state不等于done！')
-
+    @unittest.skip('3')
     def testStartQRCodeScan_fail(self):
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._startQRCodeScan",fingerprint='')

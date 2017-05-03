@@ -2,29 +2,16 @@
 #data不包含name的
 class StartPreview():
     name = "camera._startPreview"
-    def __init__(self,stimime,stiframe,stiwidth,
-                 stibitrate,stiheight,stimode,orimime,oriframe,oriwidth,
-                 oribitrate,oriheight,saveori,**kw):
-
-        self.stimime=stimime
-        self.stiframe=stiframe
-        self.stiwidth=stiwidth
-        self.stibitrate=stibitrate
-        self.stiheight=stiheight
-        self.stimode=stimode
-        self.orimime=orimime
-        self.oriframe=oriframe
-        self.oriwidth=oriwidth
-        self.oribitrate=oribitrate
-        self.oriheitht=oriheight
-        self.saveori=saveori
+    def __init__(self,stimime=None,stiframe=None,stiwidth=None,
+                 stibitrate=None,stiheight=None,stimode=None,orimime=None,oriframe=None,oriwidth=None,
+                 oribitrate=None,oriheight=None,saveori=None,**kw):
 
         self.data =  {
-            "stiching": {"mime": self.stimime, "framerate": self.stiframe, "width": self.stiwidth,
-                         "bitrate": self.stibitrate, "height": self.stiheight, "mode": self.stimode},
-            "origin": {"mime": self.orimime, "framerate": self.oriframe, "width": self.oriwidth,
-                       "bitrate": self.oribitrate, "height": self.oriheitht,
-                       "saveOrigin": self.saveori}}
+            "stiching": {"mime": stimime, "framerate": stiframe, "width": stiwidth,
+                         "bitrate": stibitrate, "height": stiheight, "mode": stimode},
+            "origin": {"mime": orimime, "framerate": oriframe, "width": oriwidth,
+                       "bitrate": oribitrate, "height": oriheight,
+                       "saveOrigin": saveori}}
 
         for key, value in kw.items():
             '''

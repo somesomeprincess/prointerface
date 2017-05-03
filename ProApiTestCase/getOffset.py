@@ -24,9 +24,17 @@ class getOffset(unittest.TestCase):
         self.assertIsNot(_3dright, '获取offset_3d_right失败！')
 
     #错误的Fingerprint
-    def testGetoffset_otherabnormal(self):
+    def testGetoffset_wrongFP(self):
         HR = HttpRequest.HttpRequest()
         data = HR.open("camera._getOffset",fingerprint='')
+        self.assertIsNotNone(data, '获取data失败！data:%s' % data)
+        self.assertTrue(data['state'] == 'exception')
+        self.assertTrue(data.has_key('error'), '获取error失败')
+
+    #多参数
+    def testGetoffset_otherabnormal(self):
+        HR = HttpRequest.HttpRequest()
+        data = HR.open("camera._getOffset",fingerprint='',aaa='bbb')
         self.assertIsNotNone(data, '获取data失败！data:%s' % data)
         self.assertTrue(data['state'] == 'exception')
         self.assertTrue(data.has_key('error'), '获取error失败')

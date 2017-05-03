@@ -19,5 +19,7 @@ class QueryState(unittest.TestCase):
         self.assertIsNotNone(results,'获取results失败！')
         preview=results['preview']
         self.assertIsNotNone(preview['width'],'获取width失败！')
+        self.assertIsNotNone(preview['url'],'preview获取失败！')
+        self.assertIsNotNone(results['version'],'获取version失败')
 
 

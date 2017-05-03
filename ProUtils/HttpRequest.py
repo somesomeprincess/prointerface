@@ -17,7 +17,7 @@ class HttpRequest():
 
         request=urllib2.Request(url,jsondata,headers=header)
 
-        resp=urllib2.urlopen(request,timeout=30)
+        resp=urllib2.urlopen(request,timeout=10)
         result=resp.read()
         data=json.loads(result)
         return data
@@ -42,7 +42,7 @@ class HttpRequest():
         jsondata = json.dumps(kw)
         request=urllib2.Request(url,jsondata,headers=header)
 
-        resp=urllib2.urlopen(request,timeout=5)
+        resp=urllib2.urlopen(request)
         result=resp.read()
         data=json.loads(result)
         return data

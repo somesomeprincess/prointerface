@@ -5,6 +5,8 @@ from time import ctime,sleep
 from ProUtils import HttpRequest
 from ProUtils import CommomUtils,Constant
 import random
+import json
+import urllib2
 
 
 def sendHeart():
@@ -51,7 +53,7 @@ def TakePic():
 def Record():
     startRecord()
     #sleep(random.randint(5,10))
-    sleep(15)
+    sleep(10)
     stopRecord()
     sleep(5)
 
@@ -60,19 +62,30 @@ def startRecord():
 
     HR = HttpRequest.HttpRequest()
     # HR.getFingerPrint()
-    sub_data = {"audio": {"bitrate": 128, "mime": "aac", "samplerate": 48000, "sampleFormat": "s16",
-                          "channelLayout": "stereo"},
-                "origin": {"mime": "h264", "framerate": 30, "width": 3200, "bitrate": 40960, "height": 2400,
-                           "saveOrigin": 'true'}}
+    sub_data = {"audio":{"bitrate":128,"mime":"aac","samplerate":48000,"sampleFormat":"s16","channelLayout":"stereo"},
+                "origin":{"mime":"h264","framerate":30,"width":3200,"bitrate":40960,"height":2400,"saveOrigin":'true'}}
     data = HR.open("camera._startRecording", parameters=sub_data)
     print(data)
 
 def stopRecord():
     print('stoprecording---')
-    HR = HttpRequest.HttpRequest()
-    enddata = HR.open("camera._stopRecording")
 
-    print(enddata)
+    header = {'Fingerprint':  Constant.fingerprint, 'Content-Type': 'application/json', 'User-Agent': 'Apache-HttpClient/4.4',
+              'Accept': 'text/xml, application/xml, application/xhtml+xml, text/html;q=0.9, text/plain;q=0.8, text/css, image/png, image/jpeg, image/gif;q=0.8, application/x-shockwave-flash, video/mp4;q=0.9, flv-application/octet-stream;q=0.8, video/x-flv;q=0.7, audio/mp4, application/futuresplash, */*;q=0.5, application/x-mpegURL'}
+    jsondata = {'name': "camera._stopRecording"}
+    jsondata = json.dumps(jsondata)
+
+    request = urllib2.Request(Constant.Common_url, jsondata, headers=header)
+    try:
+        resp = urllib2.urlopen(request, timeout=10)
+        result = resp.read()
+        data = json.loads(result)
+        print(data)
+    except Exception as e:
+        print e
+        urllib2.Request(Constant.Common_url, jsondata, headers=header)
+
+
 
 
 def PicAndRecord():
@@ -106,41 +119,41 @@ def Heart():
 
 
 threads=[]
-t1=threading.Thread(target=Heart)
-threads.append(t1)
-t2=threading.Thread(target=TakePic)
-threads.append(t2)
-t3=threading.Thread(target=Record)
+tHeart=threading.Thread(target=Heart)
+threads.append(tHeart)
+t2Pic=threading.Thread(target=TakePic)
+threads.append(t2Pic)
+t3Record=threading.Thread(target=Record)
 t4=threading.Thread(target=PicAndRecord)
 t5=threading.Thread(target=sendPicAndRecord)
 t6=threading.Thread(target=sendHeart)
 tRecord=threading.Thread(target=sendRecord)
 if __name__=='__main__':
-    #CommomUtils.Connect()
-    mode=5
+    CommomUtils.Connect()
+    mode=2
     if(mode==1):
-        t1.setDaemon(True)
-        t2.setDaemon(True)
+        tHeart.setDaemon(True)
+        t2Pic.setDaemon(True)
 
-        t1.start()
-        t2.start()
-        t1.join()
-        t2.join()
+        tHeart.start()
+        t2Pic.start()
+        tHeart.join()
+        t2Pic.join()
     elif(mode==2):
-        t1.setDaemon(True)
-        t3.setDaemon(True)
+        tHeart.setDaemon(True)
+        t3Record.setDaemon(True)
 
-        t1.start()
-        t3.start()
-        t1.join()
-        t3.join()
+        tHeart.start()
+        t3Record.start()
+        tHeart.join()
+        t3Record.join()
     elif(mode==3):
-        t1.setDaemon(True)
+        tHeart.setDaemon(True)
         t4.setDaemon(True)
 
-        t1.start()
+        tHeart.start()
         t4.start()
-        t1.join()
+        tHeart.join()
         t4.join()
     elif (mode == 4):
         t6.setDaemon(True)

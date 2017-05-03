@@ -2,14 +2,20 @@
 from ProUtils import HttpRequest
 from ProUtils import Constant,CommomUtils
 import unittest
+import sys
+if sys.getdefaultencoding()!='utf-8':
+    reload(sys)
+    sys.setdefaultencoding('utf8')
 
 class Disconnect(unittest.TestCase):
+
     def testDisconneact_ok(self):
         CommomUtils.Connect()
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._disconnect")
         self.assertIsNotNone(data['state'],'state等于空！')
         self.assertTrue(data['state']=='done','state不等于done!')
+
 
     def testDisconneact_fail(self):
         HR=HttpRequest.HttpRequest()

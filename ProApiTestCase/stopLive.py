@@ -50,3 +50,4 @@ class StopLive(unittest.TestCase):
             self.assertIsNotNone(err['error'], '获取error失败')
             self.assertIsNotNone(err['description'], '获取description失败')
             self.assertIsNotNone(err['code'], '获取code失败')
+
