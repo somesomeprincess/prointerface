@@ -1,7 +1,7 @@
 #coding:utf-8
 from ProUtils import HeartBeat,HttpRequest
 import xlrd
-from model import StartPreviewParam,TakePicture,setImageParam,StichPicFileParam,StartRecording
+from model import StartPreviewParam,TakePicture,setImageParam,StichPicFileParam,StartRecording,StartLive,SetOption
 from ProUtils import Constant
 import time,threading
 def Connect():
@@ -95,9 +95,14 @@ def StartRecordTestCaseFromExcel(sheetname):
     rows = table.nrows
     cols = table.ncols
     print(rows)
-    ps = []
+    ps=[]
+    keylist = ['stimime','stiwidth','stiheight','stimode','stiframerate','stibirate','stimap','orimime','oriwidth',
+               'oriheight','oriframerate','oribirate','saveorigin','audbirate','samplerate','sampleformat','channellayout','timenable','timeinterval',
+               'fileoverride','storagepath','stabilization']
+    valuelist=[]
     for i in range(1, rows):
         case = table.cell(i, 0).value
+
         stimime = table.cell(i, 2).value
 
         stiwidth = table.cell(i, 3).value
@@ -105,31 +110,89 @@ def StartRecordTestCaseFromExcel(sheetname):
         stiheight=table.cell(i, 4).value
 
         stimode = table.cell(i, 5).value
-        orimime = table.cell(i, 6).value
+        stiframerate=table.cell(i, 6).value
+        stibirate=table.cell(i, 7).value
+        stimap=table.cell(i, 8).value
+        orimime =table.cell(i, 9).value
 
-        oriwidth = table.cell(i, 7).value
-        oriheight = table.cell(i, 8).value
-        saveorigin = table.cell(i, 9).value
-        audmime = table.cell(i, 10).value
-        audbitrate = table.cell(i, 11).value
-        samplerate= table.cell(i, 12).value
+        oriwidth =table.cell(i, 10).value
+        oriheight =table.cell(i, 11).value
+        oriframerate = table.cell(i, 12).value
+        oribirate = table.cell(i, 13).value
+        saveorigin =table.cell(i, 14).value
+        audmime =table.cell(i, 15).value
+        audbitrate = table.cell(i, 16).value
+        samplerate= table.cell(i, 17).value
+        sampleformat = table.cell(i, 18).value
+        channellayout= table.cell(i, 19).value
+        timenable=table.cell(i, 20).value
+        timeinterval=table.cell(i, 21).value
+        duration=table.cell(i, 22).value
+        fileoverride=table.cell(i, 23).value
+        storagepath=table.cell(i, 24).value
+        stabilization=table.cell(i, 25).value
 
-        sampleformat = table.cell(i, 13).value
-        channellayout= table.cell(i, 14).value
-        stiframerate= table.cell(i, 15).value
-        subparam = StartRecording.StartRecording(stimime=stimime, stiwidth=stiwidth,  stiheight=stiheight, stimode=stimode,
-                                                 stiframerate=stiframerate,
-                                                  orimime=orimime,  oriwidth=oriwidth,  oriheight=oriheight, saveori=saveorigin,
+        subparam = StartRecording.StartRecording(stimime=stimime, stiwidth=stiwidth,  stiheight=stiheight, stimode=stimode,stiframerate=stiframerate,stibirate=stibirate,stimap=stimap,
+                                                  orimime=orimime,  oriwidth=oriwidth,  oriheight=oriheight, saveori=saveorigin,oriframerate=oriframerate,oribirate=oribirate,
                                                   audmime=audmime,audbitraite=audbitrate,samplerate=samplerate,sampleformat=sampleformat,
-                                                 channellayout=channellayout).getJsonData()
-        print(subparam)
+                                                 channellayout=channellayout,timeenable=timenable,timeinterval=timeinterval,duration=duration,fileoverride=fileoverride,
+                                                 storagepath=storagepath,stabilization=stabilization).getJsonData()
         ok = (case, subparam)
         ps.append(ok)
+
     return ps
 
 
 def StartLiveTestCaseFromExcel(sheetname):
-    pass
+    file = Constant.TestCasePath
+    book = xlrd.open_workbook(file)
+    table = book.sheet_by_name(sheetname)
+    # 获取行数
+    rows = table.nrows
+    cols = table.ncols
+    print(rows)
+    ps = []
+    for i in range(1, rows):
+        case = table.cell(i, 0).value
+
+        stimime = table.cell(i, 2).value
+
+        stiwidth = table.cell(i, 3).value
+
+        stiheight = table.cell(i, 4).value
+
+        stimode = table.cell(i, 5).value
+        stiframerate = table.cell(i, 6).value
+        stibirate = table.cell(i, 7).value
+        stimap = table.cell(i, 8).value
+        orimime = table.cell(i, 9).value
+
+        oriwidth = table.cell(i, 10).value
+        oriheight = table.cell(i, 11).value
+        oriframerate = table.cell(i, 12).value
+        oribirate = table.cell(i, 13).value
+        storagepath = table.cell(i, 14).value
+        audmime = table.cell(i, 15).value
+        audbitrate = table.cell(i, 16).value
+        samplerate = table.cell(i, 17).value
+        sampleformat = table.cell(i, 18).value
+        channellayout = table.cell(i, 19).value
+        stabilization = table.cell(i, 20).value
+        liveurl = table.cell(i, 21).value
+        liveonhdmi = table.cell(i, 22).value
+
+        subparam = StartLive.StartLive(stimime=stimime, stiwidth=stiwidth, stiheight=stiheight,
+                                                 stimode=stimode, stiframerate=stiframerate, stibirate=stibirate,
+                                                 stimap=stimap,liveonhdmi=liveonhdmi,liveurl=liveurl,
+                                                 orimime=orimime, oriwidth=oriwidth, oriheight=oriheight,
+                                                  oriframerate=oriframerate, oribirate=oribirate,
+                                                 audmime=audmime, audbitraite=audbitrate, samplerate=samplerate,
+                                                 sampleformat=sampleformat,channellayout=channellayout,
+                                                 storagepath=storagepath, stabilization=stabilization).getJsonData()
+        ok = (case, subparam)
+        ps.append(ok)
+
+    return ps
 
 def SetImageParamFromExcel(sheetname):
     file = Constant.TestCasePath
@@ -146,6 +209,9 @@ def SetImageParamFromExcel(sheetname):
         ok = (case, subparam)
         ps.append(ok)
     return ps
+
+def SetOptionFromExcel(sheetname):
+    pass
 
 def StichPicFileFromExcel(sheetname):
     file = Constant.TestCasePath
@@ -175,11 +241,11 @@ def StichPicFileFromExcel(sheetname):
         ps.append(ok)
     return ps
 
-def Heart():
-    for i in range(4):
+def Heart(rangetime=4,sleeptime=3):
+    for i in range(rangetime):
         print('Heart')
         Connect()
-        time.sleep(3)
+        time.sleep(sleeptime)
 
 def HeartThread():
     t6 = threading.Thread(target=Heart)
@@ -187,6 +253,27 @@ def HeartThread():
     t6.start()
     t6.join()
 
+
+#从excel中读取用例
+def ExampleFromExcel(sheetname):
+    file = Constant.TestCasePath
+    book = xlrd.open_workbook(file)
+    table = book.sheet_by_name(sheetname)
+    # 获取行数
+    rows = table.nrows
+    cols = table.ncols
+    ps = []
+    for i in range(1, rows):
+        print(i)
+
+        for j in range(1,cols):
+            case = table.cell(0, j).value
+            subparam=table.cell(i, j).value
+            ok = (case, subparam)
+            print(ok)
+        ps.append(ok)
+    return ps
+
 if __name__=='__main__':
-    ps=StartPreviewTestCaseFromExcel('startPreview')
+    ps=StartRecordTestCaseFromExcel('startrecord')
     print(ps)
