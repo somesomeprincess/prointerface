@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915c2163-6fff-4247-805d-7c65226975b1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/Disconnect.py" afterPath="$PROJECT_DIR$/ProApiTestCase/Disconnect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProUtils/SendEmail.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py" afterPath="$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/GetVersion.py" afterPath="$PROJECT_DIR$/ProApiTestCase/GetVersion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/StartPreview.py" afterPath="$PROJECT_DIR$/ProApiTestCase/StartPreview.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py" afterPath="$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" afterPath="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/stopPreview.py" afterPath="$PROJECT_DIR$/ProApiTestCase/stopPreview.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/CommomUtils.py" afterPath="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py" afterPath="$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/Constant.py" afterPath="$PROJECT_DIR$/ProUtils/Constant.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/MutilThread.py" afterPath="$PROJECT_DIR$/ProUtils/MutilThread.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/PicRecordScript.py" afterPath="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.html" afterPath="$PROJECT_DIR$/result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.py" afterPath="$PROJECT_DIR$/run.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,35 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HttpRequest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/HttpRequest.py">
+      <file leaf-file-name="StartRecording.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="26" column="66" lean-forward="false" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-              <folding>
-                <element signature="e#14#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartPreviewWithExcel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py">
+      <file leaf-file-name="ProHTMLTestRunner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-              <folding>
-                <element signature="e#14#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TakePicture.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model/TakePicture.py">
+      <file leaf-file-name="stopRecording.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopRecording.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="286">
+              <caret line="46" column="67" lean-forward="true" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -58,61 +64,65 @@
       <file leaf-file-name="CommomUtils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProUtils/CommomUtils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="78" column="113" lean-forward="false" selection-start-line="78" selection-start-column="113" selection-end-line="78" selection-end-column="113" />
+            <state relative-caret-position="272">
+              <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="249" selection-end-column="15" />
               <folding>
-                <element signature="e#14#44#0" expanded="true" />
+                <element signature="e#14#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartPreviewParam.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
+      <file leaf-file-name="TakePicture.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="288">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetVersion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetVersion.py">
+      <file leaf-file-name="PicRecordScript.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="241">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="119" />
+              <folding>
+                <element signature="e#14#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProUtils/Constant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartPreview.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
+      <file leaf-file-name="parameterized.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/parameterized/parameterized.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="84" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="84" />
+            <state relative-caret-position="183">
+              <caret line="391" column="0" lean-forward="false" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryState.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/QueryState.py">
+      <file leaf-file-name="StartRecording.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetStoragePath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-1520">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +138,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fingerprint</find>
       <find>getFringerPrint</find>
       <find>StartTime</find>
       <find>Status</find>
@@ -136,10 +145,40 @@
       <find>Sti</find>
       <find>sti</find>
       <find>case</find>
+      <find>Recording</find>
+      <find>self.</find>
+      <find>,</find>
+      <find>unittest</find>
+      <find>unittest.s</find>
+      <find>startLive</find>
+      <find>stiframerate</find>
+      <find>t1</find>
+      <find>saveor</find>
+      <find>GetStoragePath</find>
+      <find>SetImageParam</find>
+      <find>body</find>
+      <find>setop</find>
+      <find>HeartThread</find>
+      <find>Result</find>
+      <find>TestResult</find>
+      <find>PicAndRecord</find>
+      <find>StartRecording</find>
+      <find>heading</find>
+      <find>detail</find>
+      <find>StartPreview</find>
+      <find>Heart</find>
+      <find>birate</find>
     </findStrings>
     <replaceStrings>
       <replace>Ori</replace>
       <replace>ori</replace>
+      <replace>Live</replace>
+      <replace>=None,</replace>
+      <replace>tHeart</replace>
+      <replace>SetOption</replace>
+      <replace>GetOption</replace>
+      <replace>aud</replace>
+      <replace>StartRecording</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -148,63 +187,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProUtils/HtmlRequest.py" />
-        <option value="$PROJECT_DIR$/ProUtils/try.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StartPriview.py" />
-        <option value="$PROJECT_DIR$/ProUtils/ProResponse.py" />
-        <option value="$PROJECT_DIR$/ProUtils/hello.py" />
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/ProUtils/BSTestRunner.py" />
-        <option value="$PROJECT_DIR$/model/JsParam.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/BaseTestCase.py" />
-        <option value="$PROJECT_DIR$/ProUtils/Util.py" />
-        <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StartPreviewCopy.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/TakePicComplete.py" />
-        <option value="$PROJECT_DIR$/ProUtils/HeartBeat.py" />
-        <option value="$PROJECT_DIR$/ProUtils/HttpRequestWithLib.py" />
-        <option value="$PROJECT_DIR$/ProUtils/Utils.py" />
-        <option value="$PROJECT_DIR$/ProUtils/try2.py" />
-        <option value="$PROJECT_DIR$/model/StartPreviewParamCopy.py" />
-        <option value="$PROJECT_DIR$/ProUtils/TakePicScript.py" />
-        <option value="$PROJECT_DIR$/ProUtils/Try.py" />
-        <option value="$PROJECT_DIR$/ProUtils/PictureScript.py" />
-        <option value="$PROJECT_DIR$/ProUtils/RecordingScript.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/get.py" />
-        <option value="$PROJECT_DIR$/ProUtils/test.py" />
-        <option value="$PROJECT_DIR$/ProUtils/noseparame.py" />
-        <option value="$PROJECT_DIR$/ProUtils/ReadExcelTry.py" />
-        <option value="$PROJECT_DIR$/model/StartPreview.py" />
-        <option value="$PROJECT_DIR$/model/StartPreviewParam.py" />
-        <option value="$PROJECT_DIR$/ProUtils/MutilThread.py" />
-        <option value="$PROJECT_DIR$/ProUtils/Constant.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetPowerMode.py" />
+        <option value="$PROJECT_DIR$/model/StichPicFile.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetOffset.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/UpgradeFw.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/stopStichVideoFile.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/StichPicFile.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/ChangeStoragePath.py" />
+        <option value="$PROJECT_DIR$/model/setImageParam.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/getImageParam.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/getOffset.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StartPreview.py" />
-        <option value="$PROJECT_DIR$/ProUtils/HttpRequest.py" />
-        <option value="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopPreview.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopLive.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopRecording.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetVersion.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/Disconnect.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/StopQRCodeScan.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/QueryState.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
-        <option value="$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py" />
-        <option value="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
+        <option value="$PROJECT_DIR$/ProUtils/HeartBeat.py" />
         <option value="$PROJECT_DIR$/model/TakePicture.py" />
+        <option value="$PROJECT_DIR$/model/StartPreviewParam.py" />
+        <option value="$PROJECT_DIR$/model/StichPicFileParam.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/QueryState.py" />
+        <option value="$PROJECT_DIR$/ProUtils/HttpRequest.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetNtscPal.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetNtscPal.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/stopLive.py" />
+        <option value="$PROJECT_DIR$/ProUtils/MutilThread.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/Disconnect.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetPowerMode.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetImageParam.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/stopRecording.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/StartPreview.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/getOffset.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/stopPreview.py" />
+        <option value="$PROJECT_DIR$/model/StartLive.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/StartLive.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetVersion.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py" />
+        <option value="$PROJECT_DIR$/model/SetOption.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetOption.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/Calibration.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/SetWifiConfig.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/GetOption.py" />
+        <option value="$PROJECT_DIR$/ProUtils/PicRecordScriptTemp.py" />
+        <option value="$PROJECT_DIR$/ProUtils/SendEmail.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
+        <option value="$PROJECT_DIR$/result.html" />
+        <option value="$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/model/StarRecord.py" />
+        <option value="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
+        <option value="$PROJECT_DIR$/ProUtils/Constant.py" />
+        <option value="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
+        <option value="$PROJECT_DIR$/model/StartRecording.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/StartRecording.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="44" />
+    <option name="y" value="57" />
+    <option name="width" value="1940" />
+    <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,6 +264,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,20 +331,20 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/0424Prointerface/ProInterface" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="HeartThread&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\ProInterface\model" />
+      <recent name="G:\ProInterface\ProUtils" />
       <recent name="G:\ProInterface\ProApiTestCase" />
+      <recent name="G:\ProInterface\model" />
       <recent name="G:\work\wuzimeide\ProInterface\model" />
       <recent name="G:\work\wuzimeide\ProInterface\ProApiTestCase" />
-      <recent name="G:\work\wuzimeide\ProInterface\ProUtils" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\work\wuzimeide\ProInterface" />
@@ -321,22 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in StartPreviewWithExcel.py">
-    <configuration default="false" name="Unittests in getOffset.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProInterface" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProApiTestCase/getOffset.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in StartRecording.py">
     <configuration default="false" name="PicRecordScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,21 +382,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in Disconnect.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProInterface" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProApiTestCase/Disconnect.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
     <configuration default="false" name="Unittests in TakePicture.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,7 +397,25 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in StartPreviewWithExcel.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in StartRecording.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -396,8 +426,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProInterface" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProApiTestCase/StartRecording.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StartRecording" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/StartRecording.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -481,19 +529,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for ProApiTestCase.StartPreview.StartPriview.testD" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in getOffset.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PicRecordScript" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Disconnect.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in StartPreviewWithExcel.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PicRecordScript" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.run" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in StartRecording.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python.StartRecording" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in StartPreviewWithExcel.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PicRecordScript" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Disconnect.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in getOffset.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in StartRecording.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.StartRecording" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PicRecordScript" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
       </list>
     </recent_temporary>
   </component>
@@ -514,50 +562,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 18h 40m 53s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 26m 03s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 18h 55m 02s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 28m 51s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 18h 55m 24s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 30m 51s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 18h 56m 32s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 32m 55s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 18h 59m 55s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 34m 02s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartPreviewWithExcel_py - 2017.04.22 at 19h 00m 52s.xml">
-      <configuration name="Unittests in StartPreviewWithExcel.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 42m 53s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_getOffset_py - 2017.04.22 at 11h 32m 06s.xml">
-      <configuration name="Unittests in getOffset.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 44m 35s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_getOffset_py - 2017.04.22 at 11h 33m 28s.xml">
-      <configuration name="Unittests in getOffset.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 46m 38s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_getOffset_py - 2017.04.22 at 11h 35m 49s.xml">
-      <configuration name="Unittests in getOffset.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 51m 23s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_stopPreview_py - 2017.04.22 at 11h 31m 48s.xml">
-      <configuration name="Unittests in stopPreview.py" configurationId="tests" />
+    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 17h 02m 38s.xml">
+      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="44" y="57" width="1940" height="982" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12739871" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12446809" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6435536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33215547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36511377" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3229491" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4637053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15462185" sideWeight="0.50637525" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -575,16 +622,16 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47887325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.66030014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15191898" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3229491" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18137595" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2795699" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2763496" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.570011" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48842338" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15462185" sideWeight="0.50637525" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
@@ -611,24 +658,39 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ProUtils/MutilThread.py</url>
-          <line>140</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py</url>
-          <line>19</line>
+          <line>17</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProApiTestCase/stopPreview.py</url>
-          <line>30</line>
+          <line>32</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProApiTestCase/stopPreview.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProUtils/PicRecordScript.py</url>
-          <line>72</line>
-          <option name="timeStamp" value="58" />
+          <line>27</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -638,404 +700,291 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="59" />
+      <option name="time" value="76" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PictureScript.py" />
-    <entry file="file://C:/Python27/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="70" lean-forward="false" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/HeartBeat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/2144424164/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47430">
-          <caret line="2635" column="8" lean-forward="false" selection-start-line="2635" selection-start-column="8" selection-end-line="2635" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getImageParam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#14#67#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/CommomUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/2144424164/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47430">
-          <caret line="2635" column="8" lean-forward="false" selection-start-line="2635" selection-start-column="8" selection-end-line="2635" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2916">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PictureScript.py" />
-    <entry file="file://C:/Python27/Lib/site-packages/parameterized/parameterized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="341" column="66" lean-forward="false" selection-start-line="341" selection-start-column="60" selection-end-line="341" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/test.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/BaseTestCase.py" />
-    <entry file="file://$PROJECT_DIR$/ProUtils/BSTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/ReadExcelTry.py" />
-    <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py" />
     <entry file="file://C:/Python27/Lib/site-packages/xlrd/book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="221">
+          <caret line="430" column="8" lean-forward="false" selection-start-line="430" selection-start-column="8" selection-end-line="430" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/unittest/case.py">
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetNtscPal.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopLive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="328" column="0" lean-forward="false" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="362">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/Constant.py">
+    <entry file="file://C:/Python27/Lib/multiprocessing/process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/HeartBeat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="753" column="0" lean-forward="false" selection-start-line="753" selection-start-column="0" selection-end-line="753" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="171">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/MutilThread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2664">
-          <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopPreview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="1728">
+          <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProApiTestCase/Disconnect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="75" lean-forward="true" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopLive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopRecording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1137">
-          <caret line="65" column="49" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="65" selection-end-column="49" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StopQRCodeScan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getImageParam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getOffset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="342">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProApiTestCase/QueryState.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetPowerMode.py" />
+    <entry file="file://$PROJECT_DIR$/ProUtils/HeartBeat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StichPicFile.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetNtscPal.py" />
+    <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="80" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/UpgradeFw.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopPreview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="e#14#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/StartLive.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartLive.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetImageParam.py" />
+    <entry file="file://C:/Python27/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4225">
+          <caret line="1003" column="45" lean-forward="true" selection-start-line="1003" selection-start-column="45" selection-end-line="1003" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StopQRCodeScan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="77" lean-forward="true" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/SetOption.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetOption.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getOffset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getImageParam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/Calibration.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetWifiConfig.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetOption.py" />
+    <entry file="file://C:/Python27/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4685">
+          <caret line="546" column="8" lean-forward="false" selection-start-line="546" selection-start-column="8" selection-end-line="546" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="84" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="84" />
+        <state relative-caret-position="108">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetVersion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/HttpRequest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="26" column="66" lean-forward="false" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
+        <state relative-caret-position="149">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
             <element signature="e#14#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
+    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScriptTemp.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/ChangeStoragePath.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py" />
+    <entry file="file://$PROJECT_DIR$/result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="28" column="66" lean-forward="true" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        <state relative-caret-position="288">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/SendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="e#14#46#0" expanded="true" />
+            <element signature="e#14#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetVersion.py">
+    <entry file="file://$PROJECT_DIR$/ProUtils/Constant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/parameterized/parameterized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="391" column="0" lean-forward="false" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/CommomUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="78" column="113" lean-forward="false" selection-start-line="78" selection-start-column="113" selection-end-line="78" selection-end-column="113" />
+        <state relative-caret-position="272">
+          <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="249" selection-end-column="15" />
           <folding>
-            <element signature="e#14#44#0" expanded="true" />
+            <element signature="e#14#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py">
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopRecording.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-          <folding>
-            <element signature="e#14#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/TakePicture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="286">
+          <caret line="46" column="67" lean-forward="true" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="119" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

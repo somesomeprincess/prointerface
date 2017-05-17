@@ -1,22 +1,98 @@
-<!DOCTYPE html>
-<html lang="zh-cn">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title>Pro</title>
-    <meta name="generator" content="BSTestRunner 0.8.4"/>
-    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="my_stylesheet.css" type="text/css">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
+    <title>test result</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { }
+
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+	font-size: 16pt;
+	color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 500px;
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #777;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#result_table td {
+    border: 1px solid #777;
+    padding: 2px;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #6c6; }
+.failClass  { background-color: #c60; }
+.errorClass { background-color: #c00; }
+.passCase   { color: #6c6; }
+.failCase   { color: #c60; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+</style>
+
+</head>
 <body>
 <script language="javascript" type="text/javascript"><!--
 output_list = Array();
@@ -112,69 +188,68 @@ function showOutput(id, name) {
 }
 */
 --></script>
-
 <div class="container">
-    <div class='heading'>
-<h1>Pro</h1>
-<p><strong>Start Time:</strong> 2017-04-18 15:10:56</p>
-<p><strong>Duration:</strong> 0:00:00.175000</p>
-<p><strong>Status:</strong> <span class="text text-danger">Failure <strong>2</strong></span></p>
+<h4><div class='heading'>
+<h1>test result</h1>
+<p class='attribute'><strong>Start Time:</strong> 2017-05-17 11:54:36</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:00.164000</p>
+<p class='attribute'><strong>Status:</strong> Pass 48</p>
 
 <p class='description'></p>
 </div>
 
+</h4>
 
-    
-<p id='show_detail_line'>
-<span class="label label-primary" onclick="showCase(0)">Summary</span>
-<span class="label label-danger" onclick="showCase(1)">Failed</span>
-<span class="label label-default" onclick="showCase(2)">All</span>
+<p id='show_detail_line'>Show
+<a href='javascript:showCase(0)' class='btn btn-primary'>Summary</a>
+<a href='javascript:showCase(1)' class='btn btn-danger'>Failed</a>
+<a href='javascript:showCase(2)' class='btn btn-success'>All</a>
 </p>
-<table id='result_table' class="table">
-    <thead>
-        <tr id='header_row'>
-            <th>Test Group/Test case</td>
-            <th>Count</td>
-            <th>Pass</td>
-            <th>Fail</td>
-            <th>Error</td>
-            <th>View</td>
-        </tr>
-    </thead>
-    <tbody>
-        
-<tr class='text text-danger'>
+<table id='result_table'>
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='passClass'>
     <td>StartPreview.StartPriview</td>
-    <td>2</td>
+    <td>48</td>
+    <td>48</td>
     <td>0</td>
-    <td>2</td>
     <td>0</td>
-    <td><a class="btn btn-xs btn-primary"href="javascript:showClassDetail('c1',2)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c1',48)" class="btn btn-warning text-center">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='text text-success'>
-    <td class='text text-danger'><div class='testcase'>testStartPreview_0_normal_h264</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_0</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        fail</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
 
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+    <div id='div_pt1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: lKSYhMYz9bs=
-data = {u'state': u'error', u'name': u'camera._startPreview', u'error': {u'code': -410, u'description': u'invalid message format'}}
-Traceback (most recent call last):
-  File "C:\Python27\lib\site-packages\parameterized\parameterized.py", line 392, in standalone_func
-    return func(*(a + p.args), **p.kwargs)
-  File "G:\ProInterface\ProApiTestCase\StartPreview.py", line 22, in testStartPreview
-    self.assertTrue(data['state']=='done')
-AssertionError: False is not true
+pt1.1: getFingerPrint ---:{u'state': u'done', u'results': {u'dd': u'e', u'_cam_state': u'0x8000', u'Fingerprint': u'PLVS'}}
+PLVS
+{u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
 
 
         </pre>
@@ -184,31 +259,22 @@ AssertionError: False is not true
     </td>
 </tr>
 
-<tr id='ft1.2' class='text text-success'>
-    <td class='text text-danger'><div class='testcase'>testStartPreview_1_normal_h265</div></td>
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_1</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.2')" >
-        fail</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
 
-    <div id='div_ft1.2' class="popup_window">
-        <div style='text-align: right;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.2').style.display = 'none' " >
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.2: lKSYhMYz9bs=
-data = {u'state': u'error', u'name': u'camera._startPreview', u'error': {u'code': -410, u'description': u'invalid message format'}}
-lKSYhMYz9bs=
-data = {u'state': u'error', u'name': u'camera._startPreview', u'error': {u'code': -410, u'description': u'invalid message format'}}
-Traceback (most recent call last):
-  File "C:\Python27\lib\site-packages\parameterized\parameterized.py", line 392, in standalone_func
-    return func(*(a + p.args), **p.kwargs)
-  File "G:\ProInterface\ProApiTestCase\StartPreview.py", line 22, in testStartPreview
-    self.assertTrue(data['state']=='done')
-AssertionError: False is not true
+pt1.2: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
 
 
         </pre>
@@ -218,21 +284,708 @@ AssertionError: False is not true
     </td>
 </tr>
 
-    </tbody>
-    <tfoot>
-        <tr id='total_row'>
-            <td>Total</td>
-            <td>2</td>
-            <td class="text text-success">0</td>
-            <td class="text text-danger">2</td>
-            <td class="text text-warning">0</td>
-            <td>&nbsp;</td>
-        </tr>
-    </tfoot>
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_10</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+        pass</a>
+
+    <div id='div_pt1.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.3: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_11</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.4')" >
+        pass</a>
+
+    <div id='div_pt1.4' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.4').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.4: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_12</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.5')" >
+        pass</a>
+
+    <div id='div_pt1.5' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.5').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.5: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.6' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_13</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.6')" >
+        pass</a>
+
+    <div id='div_pt1.6' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.6').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.6: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.7' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_14</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.7')" >
+        pass</a>
+
+    <div id='div_pt1.7' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.7').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.7: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.8' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_15</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.8')" >
+        pass</a>
+
+    <div id='div_pt1.8' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.8').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.8: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.9' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_16</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.9')" >
+        pass</a>
+
+    <div id='div_pt1.9' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.9').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.9: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.10' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_17</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.10')" >
+        pass</a>
+
+    <div id='div_pt1.10' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.10').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.10: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.11' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_18</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.11')" >
+        pass</a>
+
+    <div id='div_pt1.11' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.11').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.11: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.12' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_19</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.12')" >
+        pass</a>
+
+    <div id='div_pt1.12' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.12').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.12: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.13' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_2</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.13')" >
+        pass</a>
+
+    <div id='div_pt1.13' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.13').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.13: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.14' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_20</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.14')" >
+        pass</a>
+
+    <div id='div_pt1.14' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.14').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.14: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.15' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_21</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.15')" >
+        pass</a>
+
+    <div id='div_pt1.15' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.15').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.15: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.16' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_22</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.16')" >
+        pass</a>
+
+    <div id='div_pt1.16' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.16').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.16: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.17' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_23</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.17')" >
+        pass</a>
+
+    <div id='div_pt1.17' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.17').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.17: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.18' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_3</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.18')" >
+        pass</a>
+
+    <div id='div_pt1.18' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.18').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.18: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.19' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_4</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.19')" >
+        pass</a>
+
+    <div id='div_pt1.19' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.19').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.19: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.20' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_5</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.20')" >
+        pass</a>
+
+    <div id='div_pt1.20' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.20').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.20: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.21' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_6</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.21')" >
+        pass</a>
+
+    <div id='div_pt1.21' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.21').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.21: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.22' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_7</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.22')" >
+        pass</a>
+
+    <div id='div_pt1.22' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.22').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.22: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.23' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_8</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.23')" >
+        pass</a>
+
+    <div id='div_pt1.23' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.23').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.23: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.24' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_9</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.24')" >
+        pass</a>
+
+    <div id='div_pt1.24' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.24').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.24: {u'state': u'done', u'name': u'camera._startPreview', u'results': {u'_previewUrl': u'rtmp://127.0.0.1/live/preview'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.25' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_0</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.26' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_1</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.27' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_10</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.28' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_11</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.29' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_12</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.30' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_13</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.31' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_14</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.32' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_15</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.33' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_16</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.34' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_17</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.35' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_18</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.36' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_19</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.37' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_2</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.38' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_3</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.39' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_4</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.40' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_5</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.41' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_6</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.42' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_7</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.43' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_8</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.44' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParam_9</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.45' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParaminTable_0_morepara</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.46' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParaminTable_1_only_one_para</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.47' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_abnormalParaminTable_2_no_para</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr id='pt1.48' class='hiddenRow'>
+    <td class='none'><div class='testcase'>testStartPreview_otherabnormal</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.48')" >
+        pass</a>
+
+    <div id='div_pt1.48' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.48').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.48: {u'state': u'exception', u'name': u'/osc/state', u'error': {u'code': u'disabledCommand', u'description': u'camera not connected'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>48</td>
+    <td>48</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
 </table>
 
-    <div id='ending'>&nbsp;</div>
+<div id='ending'>&nbsp;</div>
 </div>
-
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
 </html>

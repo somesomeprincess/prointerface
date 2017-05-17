@@ -3,7 +3,7 @@ import threading
 
 from time import ctime,sleep
 from ProUtils import HttpRequest
-from ProUtils import CommomUtils
+from ProUtils import CommomUtils,SendEmail
 import random
 
 
@@ -31,7 +31,7 @@ def sendPicAndRecord():
         print('startrecord---------%s' % ctime())
         sleep(random.randint(10, 20))
         print('endRecord')
-        sleep(10)
+        sleep(25)
 
 def TakePic(num):
     for i in range(num):
@@ -48,12 +48,23 @@ def takePicAction():
                              "mode": "pano"}}
     data = HR.open("camera._takePicture", parameters=sub_data)
     print(data)
-    sleep(10)
+    if(not data['state']=='done'):
+        #print(type(ctime()),type(data))
+        nowtime=ctime()
+        datastr=str(data)
+        errstr='nowtime is'+ctime()+'\ndata is:'+datastr
+        print(type(nowtime), type(datastr))
+        SendEmail.send(errstr)
+    sleep(25)
+
+
 
 def Record(rangenum=5,mintime=10,maxtime=15):
     for i in range(rangenum):
         startRecord()
-        sleep(random.randint(mintime,maxtime))
+        randomtime=random.randint(mintime,maxtime)
+        print('this time random time is %s'%randomtime)
+        sleep(randomtime)
         stopRecord()
         sleep(5)
 
@@ -65,6 +76,12 @@ def startRecord():
     sub_data = {"audio":{"bitrate":128,"mime":"aac","samplerate":48000,"sampleFormat":"s16","channelLayout":"stereo"},
                 "origin":{"mime":"h264","framerate":30,"width":3200,"bitrate":40960,"height":2400,"saveOrigin":'true'}}
     data = HR.open("camera._startRecording", parameters=sub_data)
+    if(not data['state']=='done'):
+        #print(type(ctime()),type(data))
+        nowtime=ctime()
+        datastr=str(data)
+        errstr='nowtime is'+ctime()+'\ndata is:'+datastr
+        SendEmail.send(errstr)
     print(data)
 
 def stopRecord():
@@ -72,11 +89,26 @@ def stopRecord():
     HR = HttpRequest.HttpRequest()
     try:
         data = HR.open("camera._stopRecording")
+
+        if (not data['state'] == 'done'):
+            # print(type(ctime()),type(data))
+            nowtime = ctime()
+            datastr = str(data)
+            errstr = 'nowtime is' + ctime() + '\ndata is:' + datastr
+            print(type(nowtime), type(datastr))
+            SendEmail.send(errstr)
         print('first stop done~')
         print(data)
     except Exception as e:
         print e
         secdata = HR.open("camera._stopRecording")
+        if (not data['state'] == 'done'):
+            # print(type(ctime()),type(data))
+            nowtime = ctime()
+            datastr = str(data)
+            errstr = 'nowtime is' + ctime() + '\ndata is:' + datastr
+            print(type(nowtime), type(datastr))
+            SendEmail.send(errstr)
         print(secdata)
 
 
@@ -95,9 +127,9 @@ def Heart(sleeptime=3):
         sleep(sleeptime)
 
 tHeart=threading.Thread(target=Heart)
-t2Pic=threading.Thread(target=TakePic,args=(3,))
-t3Record=threading.Thread(target=Record,args=(5,10,15))
-tPicAndRecord=threading.Thread(target=PicAndRecord(3,10,15))
+t2Pic=threading.Thread(target=TakePic,args=(1010,))
+t3Record=threading.Thread(target=Record,args=(100,100,360))
+# tPicAndRecord=threading.Thread(target=PicAndRecord(3,10,15))
 t5=threading.Thread(target=sendPicAndRecord)
 t6=threading.Thread(target=sendHeart)
 tRecord=threading.Thread(target=sendRecord)
@@ -113,24 +145,22 @@ def runThreadAs(thread1,thread2):
 
 if __name__=='__main__':
     CommomUtils.Connect()
-    mode=6
+    mode=2
     if(mode==1):
         runThreadAs(tHeart,t2Pic)
     elif(mode==2):
         runThreadAs(tHeart, t3Record)
-    elif(mode==3):
-        tHeart.setDaemon(True)
-        tHeart.start()
-        t2Pic.start()
-        tRecord.start()
-        t2Pic.join()
-        tRecord.join()
-    elif (mode == 4):
-        runThreadAs(t6, t5)
-    elif(mode==5):
-        runThreadAs(t6, tRecord)
-    elif(mode==6):
-        runThreadAs(tHeart, tPicAndRecord)
+    # elif (mode == 4):
+    #     runThreadAs(t6, t5)
+    # elif(mode==5):
+    #     runThreadAs(t6, tRecord)
+    # elif(mode==6):
+    #     runThreadAs(tHeart, tPicAndRecord)
+    elif(mode==7):
+        runThreadAs(tHeart, t2Pic)
+
+
+
 
     print('\nall over %s'%ctime())
     HR = HttpRequest.HttpRequest()

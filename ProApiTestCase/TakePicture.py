@@ -13,8 +13,7 @@ if sys.getdefaultencoding()!='utf-8':
 class TakePicture(unittest.TestCase):
     def setUp(self):
         CommomUtils.Connect()
-        #持续心跳包
-        CommomUtils.HeartThread()
+
 
     #正常情况
     @parameterized.expand(CommomUtils.TakePicTestCaseFromExcel('takePicture_ok'))
@@ -23,6 +22,8 @@ class TakePicture(unittest.TestCase):
 
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._takePicture",parameters=param)
+        #持续心跳包
+        CommomUtils.HeartThread()
         self.assertIsNotNone(data, u'data为空！%s' % data)
         self.assertTrue(data['state'] == 'done', 'state不等于done')
         id = data['results']['id']
@@ -30,6 +31,7 @@ class TakePicture(unittest.TestCase):
 
     #异常情况,相机还是返回成功
     @parameterized.expand(CommomUtils.TakePicTestCaseFromExcel('takePicture_err'))
+    @unittest.skip('abnormal')
     def testTakePicture_abnormal(self,_,param):
         HR=HttpRequest.HttpRequest()
 

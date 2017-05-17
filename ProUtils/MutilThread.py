@@ -1,17 +1,14 @@
 #coding:utf-8
 import threading
-
+from multiprocessing import Process
 from time import ctime,sleep
 from ProUtils import HttpRequest
 from ProUtils import CommomUtils
 import random
 import unittest
+from parameterized import parameterized
 
 
-def sendHeart():
-    for i in range(11):
-        print('sendHeart----------%s'%ctime())
-        sleep(2)
 
 
 
@@ -26,8 +23,8 @@ def sendPicAndRecord():
         sleep(10)
 
 
-def TakePic(num):
-    for i in range(num):
+def TakePic():
+    for i in range(10):
         print('TakePic')
         # 发送TakePicture请求
         HR = HttpRequest.HttpRequest()
@@ -87,65 +84,46 @@ def Heart():
 threads=[]
 t1=threading.Thread(target=Heart)
 threads.append(t1)
-t2=threading.Thread(target=TakePic,args=100)
+t2=threading.Thread(target=TakePic)
 threads.append(t2)
 t3=threading.Thread(target=Record)
 t4=threading.Thread(target=PicAndRecord)
 t5=threading.Thread(target=sendPicAndRecord)
-t6=threading.Thread(target=sendHeart)
-if __name__=='__main__':
-    #CommomUtils.Connect()
-    mode=4
-    if(mode==1):
-        t1.setDaemon(True)
-        t2.setDaemon(True)
 
-        t1.start()
-        t2.start()
-        t1.join()
-        t2.join()
-    elif(mode==2):
-        t1.setDaemon(True)
-        t3.setDaemon(True)
 
-        t1.start()
-        t3.start()
-        t1.join()
-        t3.join()
-    elif(mode==3):
-        t1.setDaemon(True)
-        t4.setDaemon(True)
+def sendHeart():
+    for i in range(5):
+        print('sendHeart----------%s' % ctime())
+        sleep(2)
 
-        t1.start()
-        t4.start()
-        t1.join()
-        t4.join()
-    elif (mode == 4):
-        t6.setDaemon(True)
-        t5.setDaemon(True)
 
-        t6.start()
-        t5.start()
-        t6.join()
-        t5.join()
+def sendPic():
+    for i in range(10):
+        print('sendTakePic---------%s' % ctime())
+        sleep(10)
 
-    print('\nall over %s'%ctime())
 
 class MutilThread(unittest.TestCase):
-    def sendTakePic(self):
-        for i in range(2):
-            print('sendTakePic---------%s' % ctime())
-            sleep(5)
 
-    def testOne(self):
-        t5 = threading.Thread(target=MutilThread.sendTakePic)
+
+    # 正常情况
+    @parameterized.expand(CommomUtils.TakePicTestCaseFromExcel('takePicture_ok'))
+    def testTakePicture_normal(self, _, param):
+        print(param)
         t6 = threading.Thread(target=sendHeart)
-        t6.setDaemon(True)
-        t5.setDaemon(True)
-        t5.start()
+        #t6 = Process(target=sendHeart)
         t6.start()
-        t5.join()
         t6.join()
+
+
+
+        # HR = HttpRequest.HttpRequest()
+        # data = HR.open("camera._takePicture", parameters=param)
+        # print(data)
+        # self.assertIsNotNone(data, u'data为空！%s' % data)
+        # self.assertTrue(data['state'] == 'done', 'state不等于done')
+        # id = data['results']['id']
+        # self.assertIsNotNone(id, 'id等于空')
 
 
     # def testOne(self):
@@ -153,3 +131,6 @@ class MutilThread(unittest.TestCase):
     #     t5.setDaemon(True)
     #     t5.start()
     #     t5.join()
+if __name__=='__main__':
+    ps=MutilThread('startPreview')
+    print(ps)

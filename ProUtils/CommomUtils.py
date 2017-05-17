@@ -1,7 +1,7 @@
 #coding:utf-8
 from ProUtils import HeartBeat,HttpRequest
 import xlrd
-from model import StartPreviewParam,TakePicture,setImageParam,StichPicFileParam,StartRecording,StartLive,SetOption
+from model import StartPreviewParam,TakePicture,StartRecording
 from ProUtils import Constant
 import time,threading
 def Connect():

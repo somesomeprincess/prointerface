@@ -11,7 +11,7 @@ if sys.getdefaultencoding()!='utf-8':
 class stopPreview(unittest.TestCase):
     def setUp(self):
         CommomUtils.Connect()
-    @unittest.skip('aa')
+
     #先请求了startPreview,请求成功
     def teststopPreview_ok(self):
         HR=HttpRequest.HttpRequest()
@@ -29,7 +29,6 @@ class stopPreview(unittest.TestCase):
 
 
     # 直接请求，请求失败
-    @unittest.skip('aas')
     def teststopPreview_notok(self):
         print(Constant.fingerprint)
         HR = HttpRequest.HttpRequest()
