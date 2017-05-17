@@ -16,14 +16,12 @@ def send(errmessage):
     msg['Subject']=Header('camera abnormal..','utf-8')
     qqusrname='l6114@qq.com'
     usrname='l6114@qq.com'
-    pwd='ilovechocolate'
     qqpwd='bcxkgzqlswhocbaa'
 
     smtpobj = smtplib.SMTP('smtp.qq.com', 587)
     smtpobj.starttls()
     # smtpobj = smtplib.SMTP('localhost')
     smtpobj.set_debuglevel(1)
-    # smtpobj.login('l6114@qq.com','741000Wzm')
     # smtpobj.sendmail('l6114@qq.com','l6114@qq.com',msg.as_string())
     smtpobj.login(qqusrname, qqpwd)
     smtpobj.sendmail(usrname, usrname, msg.as_string())
