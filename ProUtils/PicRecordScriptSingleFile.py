@@ -3,7 +3,7 @@ import random
 import threading
 from time import ctime, sleep
 
-from ProUtils import CommomUtils, SendEmail
+
 from ProUtils import HttpRequest
 
 
@@ -47,10 +47,9 @@ def takePicAction():
     sub_data = {"origin": {"mime": "jpeg",  "width": 4000,  "height": 3000,"saveOrigin": 'true'},
                 "stiching": {"mime": "jpeg",  "width": 7680,  "height": 3840,"mode": "pano"}}
 
-    data8k3d = {"origin": {"saveOrigin": 'true', "height": 3000, "mime": "jpeg", "width": 4000}, "delay": 0, "stiching": {"mode": "3d_top_left", "height": 7680, "mime": "jpeg", "width": 7680}}
-    data_burst={"stabilization": 'false',"origin": {"mime": "jpeg", "width": 4000, "bitrate": 'null',"height": 3000, "framerate": 'null', "saveOrigin": 'true'},
-                "delay": 0, "burst": {"count": 10, "enable": 'true'}}
-
+    data8k3d = {"origin": {"saveOrigin": 'true', "height": 3000, "mime": "jpeg", "width": 4000}, "delay": 5, "stiching": {"mode": "3d_top_left", "height": 7680, "mime": "jpeg", "width": 7680}}
+    data_burst={"origin": {"mime": "jpeg",  "width": 4000,  "height": 3000,"saveOrigin": 'true'},
+                "stiching": {"mime": "jpeg",  "width": 7680,  "height": 3840,"mode": "pano"},'delay':0,'burst':{"enable":'true',"count":3}}
     data_8kOF={"origin": {"mime": "jpeg",  "width": 4000,  "height": 3000,"saveOrigin": 'true'},"stabilization":'false',"delay":0,
                 "stiching": {"algorithm":"opticalFlow","bitrate":"null","framerate":"null","mime":"jpeg","height":3840,"mode":"pano","width":7680}}
 
@@ -79,20 +78,14 @@ def takePicAction():
 
 
     origin_no_sti={"origin": {"bitrate": None, "width": 4000, "height": 3000, "mime": "jpeg", "saveOrigin": 'true', "framerate": None}}
-    data = HR.open("camera._takePicture", parameters=random.choice(datalist))
-    #data = HR.open("camera._takePicture", parameters=data_burst)
+    #data = HR.open("camera._takePicture", parameters=random.choice(datalist))
+    data = HR.open("camera._takePicture", parameters=data_burst)
     print(data)
     CommomUtils.writeLogToFile(str(data))
-
-
     if(not data['state']=='done'):
-        if (data['error']['description'] == 'camera not connected'):
-            CommomUtils.Connect()
-            print('reconnect ..!')
-        else:
-            errstr='nowtime is'+ctime()+'\ndata is:'+str(data)
-            SendEmail.send(errstr)
-    sleep(40)
+        errstr='nowtime is'+ctime()+'\ndata is:'+str(data)
+        SendEmail.send(errstr)
+    sleep(30)
 
 
 
@@ -150,7 +143,7 @@ def startRecord():
         nowtime=ctime()
         datastr=str(data)
         errstr='nowtime is'+ctime()+'\ndata is:'+datastr
-        SendEmail.send(errstr)
+        '''SendEmail.send(errstr)'''
     print(data)
 
 def stopRecord():
@@ -170,7 +163,7 @@ def stopRecord():
         print(data)
         CommomUtils.writeLogToFile(str(data))
     except Exception as e:
-        print (e)
+        print e
         secdata = HR.open("camera._stopRecording")
         # if (not data['state'] == 'done'):
         #     # print(type(ctime()),type(data))
@@ -222,12 +215,14 @@ if __name__=='__main__':
         try:
             runThreadAs(tHeart,t2Pic)
         except Exception as e:
-            CommomUtils.writeLogToFile(e)
+            '''CommomUtils.writeLogToFile(e)'''
+            pass
     elif(mode==2):
         try:
             runThreadAs(tHeart, t3Record)
         except Exception as e:
-            CommomUtils.writeLogToFile(e)
+            '''CommomUtils.writeLogToFile(e)'''
+            pass
     # elif (mode == 4):
     #      runThreadAs(t6, t5)
     # elif(mode==5):

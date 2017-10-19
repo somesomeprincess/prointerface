@@ -5,6 +5,7 @@ from ProUtils import Constant,CommomUtils
 from parameterized import parameterized
 from model import TakePicture
 import sys
+import datetime
 if sys.getdefaultencoding()!='utf-8':
     reload(sys)
     sys.setdefaultencoding('utf8')
@@ -15,6 +16,11 @@ class TakePicture(unittest.TestCase):
         CommomUtils.Connect()
 
 
+    def writeLogToFile(self,something):
+        today = datetime.datetime.now().strftime('%Y_%m_%d')
+        with open(r'G:/log/' + today + '.txt', 'a') as f:
+            f.write(something)
+
     #正常情况
     @parameterized.expand(CommomUtils.TakePicTestCaseFromExcel('takePicture_ok'))
     def testTakePicture_normal(self,_,param):
@@ -23,11 +29,16 @@ class TakePicture(unittest.TestCase):
         HR=HttpRequest.HttpRequest()
         data=HR.open("camera._takePicture",parameters=param)
         #持续心跳包
-        CommomUtils.HeartThread()
+        #CommomUtils.HeartThread()
+        print(data)
+        CommomUtils.Heart(6)
         self.assertIsNotNone(data, u'data为空！%s' % data)
         self.assertTrue(data['state'] == 'done', 'state不等于done')
         id = data['results']['id']
         self.assertIsNotNone(id, 'id等于空')
+        today = datetime.datetime.now().strftime('%H:%M')
+        self.writeLogToFile(today+'----'+str(data)+'\n')
+
 
     #异常情况,相机还是返回成功
     @parameterized.expand(CommomUtils.TakePicTestCaseFromExcel('takePicture_err'))

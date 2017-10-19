@@ -4,6 +4,7 @@ import unittest
 from ProUtils import Constant,CommomUtils
 from model import StartRecording
 from parameterized import parameterized
+import time
 
 
 class StartRecording(unittest.TestCase):
@@ -12,17 +13,30 @@ class StartRecording(unittest.TestCase):
     def setUp(self):
         CommomUtils.Connect()
 
+
     #正常情况
 
+    #@parameterized.expand(CommomUtils.StartRecordTestCaseFromExcel('startRecording'))
     @parameterized.expand(CommomUtils.StartRecordTestCaseFromExcel('startrecord'))
     def testStartRecording(self,_,param):
         HR=HttpRequest.HttpRequest()
         print(param)
         data = HR.open('camera._startRecording',parameters=param)
         print(data)
-        CommomUtils.HeartThread()
+        CommomUtils.Heart(2)
         self.assertIsNotNone(data,'获取data失败！data:%s'%data)
         self.assertTrue(data['state']=='done')
+
+
+        try:
+            print('stopRecording print Heart----------')
+            data = HR.open("camera._stopRecording")
+            if (not data['state'] == 'done'):
+                print('first stop undone~')
+            print(data)
+        except Exception as e:
+            print e
+            secdata = HR.open("camera._stopRecording")
 
     #表格异常情况，期望是错的，但目前是正常返回
     '''
@@ -107,8 +121,9 @@ class StartRecording(unittest.TestCase):
         self.assertTrue(data.has_key('error'), '获取error失败')
     '''
     def tearDown(self):
-        HR = HttpRequest.HttpRequest()
-        HR.open("camera._stopRecording")
+        Constant.fingerprint=None
+        time.sleep(10)
+
 
 
 

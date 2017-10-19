@@ -1,9 +1,14 @@
 fingerprint=None
 scheme='http://'
-ip='169.254.44.9'
+ip='192.168.2.218'
 port='20000'
 # ip='127.0.0.1'
 # port='5000'
 Common_url = scheme + ip + ':' + port + '/osc/commands/execute'
 Heart_url = scheme + ip + ':' + port + '/osc/state'
-TestCasePath=r'G:\work\Pro\ProTestCaseForScript.xlsx'
+TestCasePath=r'D:\work\Pro\ProTestCaseForScript.xlsx'
+
+TAKEPICTURE=1
+TAKERECORD=2
+TAKELIVE=3
+PICANDRECORD=6

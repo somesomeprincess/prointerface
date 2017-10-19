@@ -1,11 +1,13 @@
 #coding:utf-8
 from ProUtils import HeartBeat,HttpRequest
 import xlrd
-from model import StartPreviewParam,TakePicture,StartRecording
+from model import StartPreviewParam,TakePicture,StartRecording,StartLive
 from ProUtils import Constant
-import time,threading
+import time,threading,datetime
+from multiprocessing import Process
 def Connect():
     isconnect = HeartBeat.HeartBeat().IsConnect()
+
     if (not isconnect):
         HeartBeat.HeartBeat().IsConnect()
 
@@ -243,15 +245,17 @@ def StichPicFileFromExcel(sheetname):
 
 def Heart(rangetime=4,sleeptime=3):
     for i in range(rangetime):
-        print('Heart')
+        print('Heart',Constant.fingerprint)
         Connect()
         time.sleep(sleeptime)
 
 def HeartThread():
     t6 = threading.Thread(target=Heart)
-    # t6 = Process(target=sendHeart)
     t6.start()
-    t6.join()
+
+def HeartProcess():
+    p=Process(target=Heart)
+    p.start()
 
 
 #从excel中读取用例
@@ -273,6 +277,12 @@ def ExampleFromExcel(sheetname):
             print(ok)
         ps.append(ok)
     return ps
+
+def writeLogToFile(something):
+    today = datetime.datetime.now().strftime('%Y_%m_%d_%H')
+    with open(r'G:/log/' + today + '.txt', 'a') as f:
+        nowtime = datetime.datetime.now().strftime('%m-%d %H:%M')
+        f.write(nowtime + '----' + str(something) + '\n')
 
 if __name__=='__main__':
     ps=StartRecordTestCaseFromExcel('startrecord')

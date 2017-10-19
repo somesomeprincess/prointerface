@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py" line="19" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="915c2163-6fff-4247-805d-7c65226975b1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ProInterface.iml" afterPath="$PROJECT_DIR$/.idea/ProInterface.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/StartRecording.py" afterPath="$PROJECT_DIR$/ProApiTestCase/StartRecording.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" afterPath="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/CommomUtils.py" afterPath="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/Constant.py" afterPath="$PROJECT_DIR$/ProUtils/Constant.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/HeartBeat.py" afterPath="$PROJECT_DIR$/ProUtils/HeartBeat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/HttpRequest.py" afterPath="$PROJECT_DIR$/ProUtils/HttpRequest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/PicRecordScript.py" afterPath="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProUtils/SendEmail.py" afterPath="$PROJECT_DIR$/ProUtils/SendEmail.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,120 +24,77 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExportTestResults" outputFolder="G:/" userTempatePath="" />
   <component name="FavoritesManager">
     <favorites_list name="ProInterface" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StartRecording.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProHTMLTestRunner.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stopRecording.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopRecording.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="46" column="67" lean-forward="false" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommomUtils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/CommomUtils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="249" selection-end-column="15" />
-              <folding>
-                <element signature="e#14#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TakePicture.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PicRecordScript.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="119" />
-              <folding>
-                <element signature="e#14#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constant.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProUtils/Constant.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parameterized.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/site-packages/parameterized/parameterized.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="391" column="0" lean-forward="false" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartRecording.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1520">
-              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-              <folding>
-                <element signature="e#14#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SendEmail.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProUtils/SendEmail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="PicRecordScriptNoLog.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/script/PicRecordScriptNoLog.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="558">
+                  <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#14#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="writelog.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/log/writelog.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="126">
+                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="66" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+            <entry file="file://C:/Python36/Lib/logging/__init__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="113">
+                  <caret line="1712" column="4" lean-forward="false" selection-start-line="1712" selection-start-column="4" selection-end-line="1712" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ScriptMain.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ScriptMain.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#0#41#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="setoptionscript.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/script/setoptionscript.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,19 +105,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getFringerPrint</find>
-      <find>StartTime</find>
-      <find>Status</find>
-      <find>uo = unicode(o.encode('string_escape'))</find>
-      <find>Sti</find>
-      <find>sti</find>
-      <find>case</find>
-      <find>Recording</find>
-      <find>self.</find>
-      <find>,</find>
-      <find>unittest</find>
-      <find>unittest.s</find>
-      <find>startLive</find>
       <find>stiframerate</find>
       <find>t1</find>
       <find>saveor</find>
@@ -163,8 +120,21 @@
       <find>heading</find>
       <find>detail</find>
       <find>StartPreview</find>
-      <find>Heart</find>
       <find>birate</find>
+      <find>CommomUtils</find>
+      <find>SendEmail</find>
+      <find>SendEmail.send(errstr)</find>
+      <find>HttpRequest</find>
+      <find>delay</find>
+      <find>urllib2</find>
+      <find>CommomUtils.writeLogToFile(e)</find>
+      <find>CommomUtils.writeLogToFile</find>
+      <find>TakePic</find>
+      <find>TakePic(</find>
+      <find>t2Pic</find>
+      <find>saveori</find>
+      <find>print</find>
+      <find>Heart</find>
     </findStrings>
     <replaceStrings>
       <replace>Ori</replace>
@@ -176,6 +146,10 @@
       <replace>GetOption</replace>
       <replace>aud</replace>
       <replace>StartRecording</replace>
+      <replace>'''CommomUtils.writeLogToFile(e)'''</replace>
+      <replace>'''SendEmail.send(errstr)'''</replace>
+      <replace>urllib.request</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,36 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetPowerMode.py" />
-        <option value="$PROJECT_DIR$/model/StichPicFile.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/SetOffset.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/UpgradeFw.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopStichVideoFile.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StichPicFile.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/ChangeStoragePath.py" />
-        <option value="$PROJECT_DIR$/model/setImageParam.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/getImageParam.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StopQRCodeScan.py" />
-        <option value="$PROJECT_DIR$/ProUtils/HeartBeat.py" />
-        <option value="$PROJECT_DIR$/model/TakePicture.py" />
-        <option value="$PROJECT_DIR$/model/StartPreviewParam.py" />
-        <option value="$PROJECT_DIR$/model/StichPicFileParam.py" />
-        <option value="$PROJECT_DIR$/try.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/QueryState.py" />
-        <option value="$PROJECT_DIR$/ProUtils/HttpRequest.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/GetNtscPal.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/SetNtscPal.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopLive.py" />
-        <option value="$PROJECT_DIR$/ProUtils/MutilThread.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/Disconnect.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/SetPowerMode.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/SetImageParam.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopRecording.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/StartPreview.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/getOffset.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/stopPreview.py" />
-        <option value="$PROJECT_DIR$/model/StartLive.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/StartLive.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/GetVersion.py" />
@@ -224,29 +168,59 @@
         <option value="$PROJECT_DIR$/ProApiTestCase/SetWifiConfig.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/GetOption.py" />
         <option value="$PROJECT_DIR$/ProUtils/PicRecordScriptTemp.py" />
-        <option value="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
         <option value="$PROJECT_DIR$/result.html" />
         <option value="$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/model/StarRecord.py" />
-        <option value="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
-        <option value="$PROJECT_DIR$/ProUtils/Constant.py" />
-        <option value="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
         <option value="$PROJECT_DIR$/model/StartRecording.py" />
         <option value="$PROJECT_DIR$/ProApiTestCase/StartRecording.py" />
+        <option value="$PROJECT_DIR$/ProApiTestCase/TakePicture.py" />
+        <option value="$PROJECT_DIR$/ProUtils/PicRecordScriptMine.py" />
+        <option value="$PROJECT_DIR$/ProUtils/RawCheckScript.py" />
+        <option value="$PROJECT_DIR$/ProUtils/BSExample.py" />
+        <option value="$PROJECT_DIR$/ProUtils/PicRecordScriptSingleFile.py" />
+        <option value="$PROJECT_DIR$/newUtils/Main_hippo.py" />
+        <option value="$PROJECT_DIR$/newUtils/TestFrame.py" />
+        <option value="$PROJECT_DIR$/newUtils/CreateExcel.py" />
+        <option value="$PROJECT_DIR$/CreateExcel.py" />
+        <option value="$PROJECT_DIR$/TestFrame.py" />
+        <option value="$PROJECT_DIR$/InterfaceMain_hippo.py" />
+        <option value="$PROJECT_DIR$/daily.py" />
+        <option value="$PROJECT_DIR$/Daily/ddtExam.py" />
+        <option value="$PROJECT_DIR$/Daily/RequesteExam.py" />
+        <option value="$PROJECT_DIR$/Daily/SeleRemot.py" />
+        <option value="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
         <option value="$PROJECT_DIR$/ProUtils/SendEmail.py" />
+        <option value="$PROJECT_DIR$/ProUtils/HeartBeat.py" />
+        <option value="$PROJECT_DIR$/PicRecordScriptPrintTest.py" />
+        <option value="$PROJECT_DIR$/ProUtils/HttpRequest.py" />
+        <option value="$PROJECT_DIR$/ProUtils/CommomUtils.py" />
+        <option value="$PROJECT_DIR$/model/StartLive.py" />
+        <option value="$PROJECT_DIR$/Daily/test.py" />
+        <option value="$PROJECT_DIR$/PicRecordScriptNoLog.py" />
+        <option value="$PROJECT_DIR$/script/PicScript.py" />
+        <option value="$PROJECT_DIR$/Daily/SeleniumExamp.py" />
+        <option value="$PROJECT_DIR$/ProUtils/RawFileCheckScript.py" />
+        <option value="$PROJECT_DIR$/ProUtils/Constant.py" />
+        <option value="$PROJECT_DIR$/Daily/xunhuan.py" />
+        <option value="$PROJECT_DIR$/Daily/join.py" />
+        <option value="$PROJECT_DIR$/Daily/log.py" />
+        <option value="$PROJECT_DIR$/log/writelog.py" />
+        <option value="$PROJECT_DIR$/ScriptMain.py" />
+        <option value="$PROJECT_DIR$/script/PicRecordScriptNoLog.py" />
+        <option value="$PROJECT_DIR$/script/setoptionscript.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
-    <option name="y" value="57" />
-    <option name="width" value="1940" />
-    <option name="height" value="982" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1791" />
+    <option name="height" value="621" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -260,92 +234,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ProInterface_Py3" type="cbb8eebc:String" user="ProInterface_Py3" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProUtils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProApiTestCase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProInterface_Py3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProInterface_Py3" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProInterface_Py3" type="462c0819:PsiDirectoryNode" />
+              <item name="newUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProInterface_Py3" type="462c0819:PsiDirectoryNode" />
+              <item name="ProApiTestCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProInterface_Py3" type="462c0819:PsiDirectoryNode" />
+              <item name="ProUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProInterface_Py3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="G:/0424Prointerface/ProInterface" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SearchEverywhereHistoryKey" value="HeartThread&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\ProInterface\ProUtils" />
-      <recent name="G:\ProInterface\ProApiTestCase" />
-      <recent name="G:\ProInterface\model" />
-      <recent name="G:\work\wuzimeide\ProInterface\model" />
-      <recent name="G:\work\wuzimeide\ProInterface\ProApiTestCase" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProInterface_Py3\script" />
+      <recent name="D:\ProInterface_Py3" />
+      <recent name="D:\ProInterface" />
       <recent name="G:\work\wuzimeide\ProInterface" />
       <recent name="G:\work\wuzimeide\ProInterface\ProUtils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProInterface_Py3\model" />
+      <recent name="D:\ProInterface_Py3" />
+      <recent name="D:\ProInterface" />
+      <recent name="G:\ProInterface\ProUtils" />
+      <recent name="G:\ProInterface\ProApiTestCase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -360,90 +316,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in StartRecording.py">
-    <configuration default="false" name="PicRecordScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ScriptMain">
+    <configuration name="PicRecordScriptNoLog (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProUtils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProInterface" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProUtils/PicRecordScript.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/PicRecordScriptNoLog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
     </configuration>
-    <configuration default="false" name="Unittests in TakePicture.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="ScriptMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScriptMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Unittests for ProApiTestCase.StartPreview.StartPriview.testD" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProInterface" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProApiTestCase/TakePicture.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProInterface" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in StartRecording.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProInterface" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ProApiTestCase/StartRecording.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="StartRecording" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProInterface" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/StartRecording.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="_new_target" value="&quot;ProApiTestCase.StartPreview.StartPriview.testD&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -509,36 +429,72 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests for ProApiTestCase.StartPreview.StartPriview.testD" type="tests" factoryName="Unittests" nameIsGenerated="true">
+    <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProInterface" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ProApiTestCase.StartPreview.StartPriview.testD&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily/join.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="writelog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/writelog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for ProApiTestCase.StartPreview.StartPriview.testD" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PicRecordScript" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.run" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in StartRecording.py" />
-      <item index="5" class="java.lang.String" itemvalue="Python.StartRecording" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ScriptMain" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PicRecordScriptNoLog (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.join" />
+      <item index="4" class="java.lang.String" itemvalue="Python.writelog" />
+      <item index="5" class="java.lang.String" itemvalue="Python.log" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in StartRecording.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StartRecording" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PicRecordScript" />
-        <item index="3" class="java.lang.String" itemvalue="Python.run" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TakePicture.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ScriptMain" />
+        <item index="1" class="java.lang.String" itemvalue="Python.writelog" />
+        <item index="2" class="java.lang.String" itemvalue="Python.log" />
+        <item index="3" class="java.lang.String" itemvalue="Python.join" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PicRecordScriptNoLog (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -559,79 +515,88 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 26m 03s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 16h 13m 10s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 28m 51s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 16h 19m 36s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 30m 51s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 16h 24m 09s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 32m 55s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 16h 26m 29s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 34m 02s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 16h 33m 01s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 42m 53s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TakePicture_py - 2017.06.03 at 17h 35m 09s.xml">
+      <configuration name="Unittests in TakePicture.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 44m 35s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ddtExam_py - 2017.09.25 at 15h 43m 09s.xml">
+      <configuration name="Unittests in ddtExam.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 46m 38s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ddtExam_py - 2017.09.25 at 15h 43m 30s.xml">
+      <configuration name="Unittests in ddtExam.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 16h 51m 23s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ddtExam_py - 2017.09.25 at 15h 43m 47s.xml">
+      <configuration name="Unittests in ddtExam.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_StartRecording_py - 2017.05.17 at 17h 02m 38s.xml">
-      <configuration name="Unittests in StartRecording.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ddtExam_py - 2017.09.25 at 16h 07m 13s.xml">
+      <configuration name="Unittests in ddtExam.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="57" width="1940" height="982" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12446809" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33215547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3229491" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4637053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22693531" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14846236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24840085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32286024" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15462185" sideWeight="0.50637525" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45846817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2763496" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.66030014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3229491" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18137595" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58152175" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32286024" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13006397" sideWeight="0.49362478" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2763496" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24840085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48842338" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4637053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15462185" sideWeight="0.50637525" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -644,11 +609,6 @@
           <url>file://$PROJECT_DIR$/ProUtils/HttpRequestWithLib.py</url>
           <line>52</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ProUtils/HttpRequest.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProUtils/HttpRequestWithLib.py</url>
@@ -687,8 +647,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="75" />
+          <line>13</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProUtils/RawFileCheckScript.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProUtils/RawFileCheckScript.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProUtils/HttpRequest.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -698,270 +678,369 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="76" />
+      <option name="time" value="90" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/try.py" />
-    <entry file="file://C:/Python27/Lib/site-packages/xlrd/book.py">
+    <entry file="file://C:/Python36/Lib/site-packages/ddt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="430" column="8" lean-forward="false" selection-start-line="430" selection-start-column="8" selection-end-line="430" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetNtscPal.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopLive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
+        <state relative-caret-position="882">
           <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/multiprocessing/process.py">
+    <entry file="file://C:/Python36/Lib/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/MutilThread.py">
+    <entry file="file://$PROJECT_DIR$/Daily/RequesteExam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/Disconnect.py">
+    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScriptSingleFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="3618">
+          <caret line="206" column="19" lean-forward="false" selection-start-line="206" selection-start-column="19" selection-end-line="206" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/QueryState.py">
+    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CreateExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/SendEmail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetPowerMode.py" />
+    <entry file="file://C:/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="139" column="4" lean-forward="false" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="182" column="4" lean-forward="false" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48168">
+          <caret line="2677" column="8" lean-forward="false" selection-start-line="2677" selection-start-column="8" selection-end-line="2677" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/HeartBeat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="65" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/SeleRemot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/StartPreviewParam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/StartPreviewWithExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StichPicFile.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetNtscPal.py" />
-    <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="22" column="80" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="21" />
+          <caret line="80" column="78" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="80" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/UpgradeFw.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopPreview.py">
+    <entry file="file://$PROJECT_DIR$/ProUtils/HttpRequest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="e#14#46#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/StartLive.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartLive.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetImageParam.py" />
-    <entry file="file://C:/Python27/Lib/threading.py">
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopLive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4225">
-          <caret line="1003" column="45" lean-forward="true" selection-start-line="1003" selection-start-column="45" selection-end-line="1003" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StopQRCodeScan.py">
+    <entry file="file://C:/Python36/Lib/site-packages/xlwt/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartQRCodeScan.py">
+    <entry file="file://C:/Python36/Lib/site-packages/xlwt/Formatting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="20" column="77" lean-forward="true" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        <state relative-caret-position="-2565">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/xlwt/Worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1087" column="0" lean-forward="false" selection-start-line="1087" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/xlwt/Workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6714">
+          <caret line="375" column="8" lean-forward="false" selection-start-line="375" selection-start-column="8" selection-end-line="375" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/PicScript.py" />
+    <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="56" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding>
             <element signature="e#14#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/SetOption.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetOption.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getOffset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/getImageParam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/Calibration.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/SetWifiConfig.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetOption.py" />
-    <entry file="file://C:/Python27/Lib/smtplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4685">
-          <caret line="546" column="8" lean-forward="false" selection-start-line="546" selection-start-column="8" selection-end-line="546" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartPreview.py">
+    <entry file="file://$PROJECT_DIR$/model/StartLive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="29" />
-          <folding />
+          <caret line="6" column="71" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetVersion.py">
+    <entry file="file://C:/Python36/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="3726">
+          <caret line="215" column="8" lean-forward="false" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetStoragePath.py">
+    <entry file="file://$PROJECT_DIR$/script/PicRecordScriptPrintTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/HttpRequest.py">
+    <entry file="file://$PROJECT_DIR$/Daily/ddtExam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/chrome/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="156" column="14" lean-forward="false" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/SeleniumExamp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/chrome/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7974">
+          <caret line="446" column="8" lean-forward="false" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5022">
+          <caret line="294" column="44" lean-forward="false" selection-start-line="294" selection-start-column="44" selection-end-line="294" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceMain_hippo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProUtils/RawFileCheckScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
           <folding>
-            <element signature="e#14#28#0" expanded="true" />
+            <element signature="e#16#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScriptTemp.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/ChangeStoragePath.py" />
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/GetFWVersion.py" />
-    <entry file="file://$PROJECT_DIR$/result.html">
+    <entry file="file://$PROJECT_DIR$/Daily/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/xunhuan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/TakePicture.py">
+    <entry file="file://C:/Python36/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="182">
+          <caret line="863" column="0" lean-forward="false" selection-start-line="863" selection-start-column="0" selection-end-line="863" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6696">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1184660488/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="4885" column="8" lean-forward="false" selection-start-line="4885" selection-start-column="8" selection-end-line="4885" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/myapp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="1712" column="4" lean-forward="false" selection-start-line="1712" selection-start-column="4" selection-end-line="1712" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/Daily/log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/Constant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/parameterized/parameterized.py">
+    <entry file="file://$PROJECT_DIR$/Daily/join.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="391" column="0" lean-forward="false" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
+        <state relative-caret-position="18">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProUtils/CommomUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="249" selection-end-column="15" />
-          <folding>
-            <element signature="e#14#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/stopRecording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="46" column="67" lean-forward="false" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
+        <state relative-caret-position="450">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/PicRecordScript.py">
+    <entry file="file://$PROJECT_DIR$/log/writelog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="119" />
+        <state relative-caret-position="126">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="66" />
           <folding>
-            <element signature="e#14#30#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/StartRecording.py">
+    <entry file="file://$PROJECT_DIR$/ScriptMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-          <folding />
+        <state relative-caret-position="36">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/ProHTMLTestRunner.py">
+    <entry file="file://$PROJECT_DIR$/script/setoptionscript.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -969,21 +1048,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProApiTestCase/StartRecording.py">
+    <entry file="file://$PROJECT_DIR$/script/PicRecordScriptNoLog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1520">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="558">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
-            <element signature="e#14#46#0" expanded="true" />
+            <element signature="e#14#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProUtils/SendEmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>

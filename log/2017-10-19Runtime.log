@@ -1,0 +1,87 @@
+Thu, 19 Oct 2017 11:26:42 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:26:43 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:26:45 [root-INFO]:{'error': {'description': 'error fingerprint none', 'code': 'invalidParameterValue'}, 'name': {'parameters': {'stiching': {'height': 7680, 'mode': '3d_top_left', 'mime': 'jpeg', 'width': 7680}, 'delay': 0, 'origin': {'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000}}, 'name': 'camera._takePicture'}, 'state': 'exception'}
+Thu, 19 Oct 2017 11:26:45 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:26:47 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:34:30 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:34:30 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:34:33 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:34:33 [root-INFO]:{'error': {'description': 'error fingerprint none', 'code': 'invalidParameterValue'}, 'name': {'parameters': {'stiching': {'height': 3840, 'mode': 'pano', 'mime': 'jpeg', 'width': 7680}, 'origin': {'height': 3000, 'mime': 'jpeg', 'saveOrigin': 'true', 'width': 4000}}, 'name': 'camera._takePicture'}, 'state': 'exception'}
+Thu, 19 Oct 2017 11:35:35 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:35 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:35:37 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:38 [root-INFO]:{'sequence': 67, 'name': 'camera._takePicture', 'state': 'done'}
+Thu, 19 Oct 2017 11:35:39 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:41 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:43 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:46 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:48 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:50 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:52 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:54 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:57 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:35:59 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:01 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:04 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:06 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:08 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:08 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:36:10 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:12 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:14 [root-INFO]:{'sequence': 70, 'name': 'camera._takePicture', 'state': 'done'}
+Thu, 19 Oct 2017 11:36:14 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:20 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:22 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:24 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:26 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:28 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:30 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:33 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:38 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:40 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:42 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:45 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:48 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:36:50 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:51 [root-INFO]:{'sequence': 73, 'name': 'camera._takePicture', 'state': 'done'}
+Thu, 19 Oct 2017 11:36:52 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:54 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:56 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:36:59 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:01 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:03 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:05 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:08 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:10 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:12 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:14 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:17 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:19 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:21 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:21 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:37:23 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:25 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:30 [root-INFO]:{'sequence': 76, 'name': 'camera._takePicture', 'state': 'done'}
+Thu, 19 Oct 2017 11:37:32 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:34 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:36 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:38 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:40 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:42 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:45 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:47 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:49 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:51 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:54 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:56 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:37:58 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:00 [root-WARNING]:TakePic
+Thu, 19 Oct 2017 11:38:01 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:03 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:04 [root-INFO]:{'sequence': 79, 'name': 'camera._takePicture', 'state': 'done'}
+Thu, 19 Oct 2017 11:38:05 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:07 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:09 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:12 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:14 [root-INFO]:Heart
+Thu, 19 Oct 2017 11:38:17 [root-INFO]:Heart

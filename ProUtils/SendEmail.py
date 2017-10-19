@@ -2,9 +2,8 @@ import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
 
-from ProUtils import CommomUtils, HttpRequest
+from ProUtils import CommomUtils, HttpRequest,Constant
 from model import StartPreviewParam
-
 import sys
 if sys.getdefaultencoding()!='utf-8':
     reload(sys)
@@ -13,7 +12,7 @@ def send(errmessage):
     msg=MIMEText(errmessage,'plain',_charset='utf-8')
     msg['From']='l6114@qq.com'
     msg['To']='l6114@qq.com'
-    msg['Subject']=Header('camera abnormal..','utf-8')
+    msg['Subject']=Header('camera abnormal..'+Constant.ip,'utf-8')
     qqusrname='l6114@qq.com'
     usrname='l6114@qq.com'
     qqpwd='bcxkgzqlswhocbaa'
