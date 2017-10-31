@@ -85,6 +85,7 @@ class HttpRequest():
                 Constant.fingerprint=data['results']['Fingerprint']
             elif(data['error']['description']==u'already connected by another'):
                 self.open("camera._disconnect")
+                time.sleep(10)
                 return False
             else:
                 time.sleep(10)

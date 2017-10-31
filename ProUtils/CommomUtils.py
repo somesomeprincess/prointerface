@@ -145,6 +145,13 @@ def StartRecordTestCaseFromExcel(sheetname):
     return ps
 
 
+
+
+
+
+
+
+
 def StartLiveTestCaseFromExcel(sheetname):
     file = Constant.TestCasePath
     book = xlrd.open_workbook(file)
@@ -285,5 +292,5 @@ def writeLogToFile(something):
         f.write(nowtime + '----' + str(something) + '\n')
 
 if __name__=='__main__':
-    ps=StartRecordTestCaseFromExcel('startrecord')
+    ps=StartRecordTestCaseFromExcelNew('record')
     print(ps)
