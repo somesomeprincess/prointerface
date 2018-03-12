@@ -1,6 +1,6 @@
 fingerprint=None
 scheme='http://'
-ip='192.168.2.34'
+ip='192.168.2.8'
 port='20000'
 # ip='127.0.0.1'
 # port='5000'

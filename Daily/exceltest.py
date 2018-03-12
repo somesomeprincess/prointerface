@@ -19,7 +19,18 @@ def workbookForColor():
 
     wbook.save(file)
 
+def color(i):
+    file = Constant.TestCasePath
+    book = xlrd.open_workbook(file)
+    bg_color = xlwt.easyxf('pattern: pattern solid, fore_colour light_orange;')
+    wbook = copy(book)
+    wsheet=wbook.get_sheet('record')
+    wsheet.write(i, 28, style=bg_color)
+    wbook.save(file)
 
 def long(*args):
-    print(args)
+    pass
 
+if __name__ == '__main__':
+    for i in range(3):
+        color(i)

@@ -1,0 +1,1105 @@
+Wed, 01 Nov 2017 11:45:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:45:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:45:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:45:50 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:45:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:45:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:45:54 [root-INFO]:{'state': 'done', 'sequence': 13, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:45:55 [root-INFO]:{'state': 'done', 'sequence': 14, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:45:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:00 [root-INFO]:{'state': 'done', 'sequence': 15, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:46:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:02 [root-INFO]:{'state': 'done', 'sequence': 16, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:46:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:38 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:46:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:47 [root-INFO]:{'state': 'done', 'sequence': 21, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:46:49 [root-INFO]:{'state': 'done', 'sequence': 22, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:46:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:51 [root-INFO]:{'state': 'done', 'sequence': 23, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:46:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:46:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:11 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:15 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:26 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:26 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:47:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:31 [root-INFO]:{'state': 'done', 'sequence': 27, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:47:32 [root-INFO]:{'state': 'done', 'sequence': 28, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:47:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:33 [root-INFO]:{'state': 'done', 'sequence': 29, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:47:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:35 [root-INFO]:{'state': 'done', 'sequence': 30, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:47:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:47:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:08 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:48:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:11 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:12 [root-INFO]:{'state': 'done', 'sequence': 33, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:48:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:14 [root-INFO]:{'state': 'done', 'sequence': 34, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:48:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:26 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:54 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:48:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:48:59 [root-INFO]:{'state': 'done', 'sequence': 40, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:49:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:01 [root-INFO]:{'state': 'done', 'sequence': 41, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:49:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:40 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:49:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:44 [root-INFO]:{'state': 'done', 'sequence': 47, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:49:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:47 [root-INFO]:{'state': 'done', 'sequence': 48, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:49:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:49:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:15 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:32 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:50:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:36 [root-INFO]:{'state': 'done', 'sequence': 53, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:50:38 [root-INFO]:{'state': 'done', 'sequence': 54, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:50:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:40 [root-INFO]:{'state': 'done', 'sequence': 55, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:50:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:50:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:14 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:51:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:19 [root-INFO]:{'state': 'done', 'sequence': 59, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:51:20 [root-INFO]:{'state': 'done', 'sequence': 60, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:51:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:23 [root-INFO]:{'state': 'done', 'sequence': 61, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:51:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:51:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:05 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:52:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:09 [root-INFO]:{'state': 'done', 'sequence': 65, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:52:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:11 [root-INFO]:{'state': 'done', 'sequence': 66, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:52:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:50 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:52:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:54 [root-INFO]:{'state': 'done', 'sequence': 72, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:52:56 [root-INFO]:{'state': 'done', 'sequence': 73, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:52:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:52:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:07 [root-INFO]:{'state': 'done', 'sequence': 74, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:53:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:44 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:53:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:53 [root-INFO]:{'state': 'done', 'sequence': 79, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:53:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:55 [root-INFO]:{'state': 'done', 'sequence': 80, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:53:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:53:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:32 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:54:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:36 [root-INFO]:{'state': 'done', 'sequence': 85, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:54:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:38 [root-INFO]:{'state': 'done', 'sequence': 86, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:54:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:40 [root-INFO]:{'state': 'done', 'sequence': 87, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:54:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:54:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:15 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:55:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:19 [root-INFO]:{'state': 'done', 'sequence': 91, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:55:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:21 [root-INFO]:{'state': 'done', 'sequence': 92, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:55:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:55:57 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:55:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:02 [root-INFO]:{'state': 'done', 'sequence': 97, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:56:03 [root-INFO]:{'state': 'done', 'sequence': 98, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:56:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:05 [root-INFO]:{'state': 'done', 'sequence': 99, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:56:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:11 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:37 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:56:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:42 [root-INFO]:{'state': 'done', 'sequence': 102, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:56:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:44 [root-INFO]:{'state': 'done', 'sequence': 103, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:56:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:56:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:18 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:57:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:23 [root-INFO]:{'state': 'done', 'sequence': 107, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:57:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:25 [root-INFO]:{'state': 'done', 'sequence': 108, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:57:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:57:57 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:58:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:02 [root-INFO]:{'state': 'done', 'sequence': 111, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:58:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:04 [root-INFO]:{'state': 'done', 'sequence': 112, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:58:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:41 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:58:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:45 [root-INFO]:{'state': 'done', 'sequence': 117, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:58:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:48 [root-INFO]:{'state': 'done', 'sequence': 118, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:58:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:58:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:15 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:26 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:28 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 11:59:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:33 [root-INFO]:{'state': 'done', 'sequence': 123, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 11:59:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:35 [root-INFO]:{'state': 'done', 'sequence': 124, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 11:59:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 11:59:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:14 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:00:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:19 [root-INFO]:{'state': 'done', 'sequence': 130, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:00:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:21 [root-INFO]:{'state': 'done', 'sequence': 131, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 12:00:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:53 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:00:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:00:59 [root-INFO]:{'state': 'done', 'sequence': 134, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:01:00 [root-INFO]:{'state': 'done', 'sequence': 135, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:01:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:02 [root-INFO]:{'state': 'done', 'sequence': 136, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 12:01:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:09 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:39 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:01:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:48 [root-INFO]:{'state': 'done', 'sequence': 140, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:01:49 [root-INFO]:{'state': 'done', 'sequence': 141, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:01:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:01:58 [root-INFO]:{'state': 'done', 'sequence': 142, 'name': 'camera._setOptions'}
+Wed, 01 Nov 2017 12:02:00 [root-INFO]:{'state': 'done', 'sequence': 143, 'name': 'camera._takePicture'}
+Wed, 01 Nov 2017 12:02:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:26 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:33 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:02:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 25}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:02:38 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:02:38 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:02:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:02:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:18 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:20 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:03:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:24 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:03:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 8}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:03:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:27 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:03:28 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:03:28 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:03:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:03:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:05 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:04:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:04:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:11 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:04:11 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:04:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:48 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:04:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:04:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:53 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:04:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:55 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:04:55 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:04:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:04:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:13 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:15 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:24 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:26 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:29 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:29 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:05:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:33 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 42}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:05:35 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:05:35 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:05:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:40 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:05:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:20 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:06:20 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:31 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:32 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -109}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:06:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:06:40 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:06:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:06:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:02 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:16 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:07:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:25 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:07:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 137}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:07:41 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:07:41 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:07:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:07:59 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:04 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:13 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:08:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:17 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:08:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:19 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:08:19 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:08:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:35 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:37 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:39 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:53 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:08:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:57 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 111}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:08:57 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:08:59 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:09:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:00 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:09:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:15 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:22 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:28 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:32 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:09:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:36 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -60}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:09:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:09:38 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:09:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:09:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:45 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:47 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:09:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:00 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:06 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:08 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:11 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:10:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:16 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:10:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:17 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 81}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:10:18 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:10:18 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:10:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:41 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:43 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:48 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:50 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:52 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:54 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:10:54 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:56 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:10:59 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:11:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:11:00 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:11:01 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:03 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:05 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:07 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:12 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:14 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:16 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:19 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:21 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:23 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:25 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:32 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:32 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:11:34 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:36 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:40 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 46}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:11:41 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:11:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:42 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:11:42 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:11:44 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:46 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:49 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:51 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:53 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:55 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:11:58 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:10 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:16 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:12:17 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:27 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:27 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:12:30 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:12:42 [root-INFO]:Heart
+Wed, 01 Nov 2017 12:12:42 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:13:30 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:13:35 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -151}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:13:36 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:13:36 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:14:13 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:14:17 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -21}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:14:18 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:14:20 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:14:20 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:14:56 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:15:01 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:15:02 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:15:02 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:15:39 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:15:44 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -33}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:15:45 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:15:45 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:16:20 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:16:24 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:16:25 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:16:25 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:17:05 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:17:15 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -124}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:17:16 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:17:17 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:17:53 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:17:59 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:18:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:18:00 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:18:37 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:18:41 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:18:42 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:18:42 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:19:21 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:19:25 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 113}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:19:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:19:27 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:19:28 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:20:06 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:20:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:20:12 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 73}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:20:13 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:20:13 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:20:50 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:21:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 20}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:21:01 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:21:01 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:21:34 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:21:38 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:21:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:21:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:22:16 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:22:20 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:22:21 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 43}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:22:22 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 9}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:22:24 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:22:24 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:22:58 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:23:02 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:23:03 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:23:03 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:23:36 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:23:40 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:23:41 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -132}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:23:42 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:23:42 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:24:19 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:24:23 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:24:25 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 40}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:24:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:24:26 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:25:01 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:25:08 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:25:09 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 42}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:25:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:25:11 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:25:47 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:25:51 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -12}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:25:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:25:54 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:25:54 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:26:30 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:26:34 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 97}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:26:36 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:26:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:26:37 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:27:15 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:27:19 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:27:20 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 148}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:27:21 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:27:21 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:27:56 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:28:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:28:01 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 72}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:28:02 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:28:02 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:28:34 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:28:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:28:40 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -49}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:28:41 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:28:41 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:29:20 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:29:25 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:29:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 54}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:29:27 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:29:28 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:30:06 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:30:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 52}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:30:12 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:30:12 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:30:46 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:30:50 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:30:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:30:52 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:31:24 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:31:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 6}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:31:34 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:31:34 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:32:10 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:32:15 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:32:16 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -94}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:32:18 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:32:18 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:32:54 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:32:59 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -108}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:33:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:33:00 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:33:32 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:33:36 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 7}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:33:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 13}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:33:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:33:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:34:18 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:34:22 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 40}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:34:23 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:34:24 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:34:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:34:26 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:35:04 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:35:08 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:35:09 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:35:10 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:35:48 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:35:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:35:54 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:35:54 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:36:28 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:36:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -19}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:36:34 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:36:35 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:36:35 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:37:10 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:37:14 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:37:15 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:37:15 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:37:52 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:37:56 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 7}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:37:57 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:37:58 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:37:59 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:38:33 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:38:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -82}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:38:38 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:38:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:38:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:39:14 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:39:18 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:39:19 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:39:19 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:39:57 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:40:01 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 8}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:40:03 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 19}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:40:04 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:40:05 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:40:05 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:40:39 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:40:44 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:40:45 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:40:45 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:41:20 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:41:28 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:41:30 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 12}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:41:31 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:41:32 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:41:32 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:42:11 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:42:16 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:42:17 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:42:17 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:42:49 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:42:54 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:42:55 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:42:56 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:42:57 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:43:34 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:43:38 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:43:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:43:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:44:17 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:44:21 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 77}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:44:22 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:44:22 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:45:01 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:45:05 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:45:06 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:45:06 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:45:41 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:45:46 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 4}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:45:47 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:45:47 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:46:19 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:46:26 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:46:30 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:46:30 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:47:09 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:47:13 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:47:14 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 32}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:47:15 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:47:16 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:47:16 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:47:55 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:47:59 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 151}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:48:00 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:48:06 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:48:06 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:48:44 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:48:49 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:48:51 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:48:51 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:49:27 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:49:32 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 8}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:49:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 23}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:49:34 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:49:34 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:50:07 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:50:11 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 30}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:50:12 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:50:12 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:50:45 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:50:49 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:50:50 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:50:51 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:51:23 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:51:27 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 39}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:51:29 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:51:29 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:52:03 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:52:08 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:52:09 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}, 'hdr': {'enable': 'true', 'count': 3, 'min_ev': -32, 'max_ev': 32}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:52:09 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:52:46 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:52:50 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 31}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:52:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:52:53 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 6}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:52:54 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:52:54 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:53:33 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:53:37 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:53:38 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -62}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:53:39 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:53:39 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:54:16 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:54:20 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:54:21 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:54:21 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:54:58 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:55:03 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:55:04 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:55:04 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:55:39 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:55:43 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:55:45 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'raw', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:55:45 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:56:21 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:56:29 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:56:30 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 1}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:56:31 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 41}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:56:33 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': '3d_top_left'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:56:33 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:57:05 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:57:09 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:57:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 136}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:57:12 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:57:12 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:57:44 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:57:48 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:57:49 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:57:49 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:58:24 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:58:29 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -110}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:58:30 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 0}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:58:31 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'width': 7680, 'height': 3840, 'mode': 'pano', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:58:31 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:59:03 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:59:08 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:59:10 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:59:10 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 12:59:49 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 12:59:53 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': -108}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:59:54 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 3}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 12:59:55 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'burst': {'enable': 'true', 'count': 10}, 'origin': {'height': 3000, 'framerate': 'null', 'saveOrigin': 'true', 'mime': 'jpeg', 'width': 4000, 'bitrate': 'null'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 12:59:55 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 13:00:30 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 13:00:34 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'ev_bias', 'value': 30}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 13:00:35 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'wb', 'value': 2}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 13:00:36 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 13:00:36 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 13:01:09 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 13:01:13 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 34}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 13:01:14 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'iso_value', 'value': 5}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 13:01:15 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'delay': 0, 'origin': {'height': 3000, 'width': 4000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 7680, 'width': 7680, 'mode': '3d_top_left', 'mime': 'jpeg'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 13:01:15 [root-INFO]:reconnect ..!
+Wed, 01 Nov 2017 13:01:47 [root-WARNING]:TakePic
+Wed, 01 Nov 2017 13:01:52 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'property': 'shutter_value', 'value': 18}, 'name': 'camera._setOptions'}}
+Wed, 01 Nov 2017 13:01:53 [root-INFO]:{'state': 'exception', 'error': {'code': 'disabledCommand', 'description': 'camera not connected'}, 'name': {'parameters': {'stabilization': 'false', 'delay': 0, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'stiching': {'height': 3840, 'framerate': 'null', 'width': 7680, 'mime': 'jpeg', 'algorithm': 'opticalFlow', 'bitrate': 'null', 'mode': 'pano'}}, 'name': 'camera._takePicture'}}
+Wed, 01 Nov 2017 13:01:53 [root-INFO]:reconnect ..!

@@ -5,5 +5,5 @@ writelog.WriteLog().blogger()
 doConnectToCamera()
 doStartPreview()
 #chooseRun(mode,runtimes,sleeptime),
-chooseRun(7,20,30)
+chooseRun(Constant.TAKEPICTURE, 2000, 20)
 doDisconnect()

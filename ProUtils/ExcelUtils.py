@@ -3,11 +3,12 @@ from ProUtils import Constant
 from model import StartRecording
 from  xlutils import copy
 class ExcelUtils():
-    def __init__(self):
+    def __init__(self,sheetname,startrow,startcol):
         self.book=xlrd.open_workbook(Constant.TestCasePath)
-        self.sheet=self.book.sheet_by_name('record')
+        self.sheet=self.book.sheet_by_name(sheetname)
         self.nRows=self.sheet.nrows
-        self.curRow=3
+        self.curRow=startrow
+        self.startcol=startcol
 
 
     def next(self):
@@ -58,7 +59,7 @@ class ExcelUtils():
     def addColor(self):
         bg_color = xlwt.easyxf('pattern: pattern solid, fore_colour light_orange;')
         wbook = copy.copy(self.book)
-        wbook.get_sheet('record').write(self.curRow, 28, style=bg_color)
+        wbook.get_sheet('record').write(self.curRow, self.startcol, style=bg_color)
         wbook.save(Constant.TestCasePath)
 
 if __name__ == '__main__':

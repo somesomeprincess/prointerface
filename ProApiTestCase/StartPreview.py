@@ -84,7 +84,7 @@ class StartPriview(unittest.TestCase):
         self.assertTrue(data['state'] == 'exception')
         self.assertTrue(data.has_key('error'), '获取error失败')
     '''
-    # 过期的Fingerprint,不确定是否能实现
+    # 过期的Fingerprint
     def testStartPreview_oldFP(self):
         oldFP=Constant.fingerprint
         print('oldFP----------')

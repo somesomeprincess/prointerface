@@ -1,0 +1,282 @@
+Wed, 20 Dec 2017 18:10:46 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:10:46 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:10:50 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 382}
+Wed, 20 Dec 2017 18:10:50 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:10:52 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:10:55 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:10:57 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:39 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:39 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:11:42 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:43 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 386}
+Wed, 20 Dec 2017 18:11:44 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:46 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:48 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:51 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:11:58 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:00 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:01 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:12:02 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:04 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 387}
+Wed, 20 Dec 2017 18:12:04 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:06 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:08 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:11 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:13 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:15 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:17 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:19 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:21 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:22 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:12:24 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:25 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 388}
+Wed, 20 Dec 2017 18:12:26 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:28 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:30 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:33 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:35 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:37 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:39 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:41 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:43 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:12:43 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:46 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:46 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 389}
+Wed, 20 Dec 2017 18:12:48 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:50 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:52 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:54 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:57 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:12:59 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:01 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:03 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:04 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:13:05 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:07 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:07 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 390}
+Wed, 20 Dec 2017 18:13:09 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:12 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:14 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:16 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:18 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:20 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:22 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:25 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:25 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:13:29 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 391}
+Wed, 20 Dec 2017 18:13:30 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:33 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:35 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:37 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:39 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:42 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:44 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:46 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:47 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:13:48 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:51 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:52 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 392}
+Wed, 20 Dec 2017 18:13:53 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:55 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:13:58 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:00 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:02 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:08 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:10 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:14:10 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:13 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:13 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 393}
+Wed, 20 Dec 2017 18:14:15 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:17 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:19 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:21 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:24 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:27 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:29 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:31 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:31 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:14:33 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:34 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 394}
+Wed, 20 Dec 2017 18:14:35 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:37 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:39 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:42 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:44 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:46 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:48 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:52 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:14:53 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:55 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:14:56 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 395}
+Wed, 20 Dec 2017 18:14:58 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:00 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:02 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:04 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:06 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:08 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:10 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:12 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:14 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:15:15 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:17 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 396}
+Wed, 20 Dec 2017 18:15:17 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:19 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:21 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:25 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:28 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:31 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:33 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:35 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:15:35 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:38 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 397}
+Wed, 20 Dec 2017 18:15:38 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:40 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:42 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:45 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:47 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:49 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:51 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:54 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:56 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:56 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:15:58 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:15:59 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 398}
+Wed, 20 Dec 2017 18:16:00 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:02 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:05 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:07 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:09 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:11 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:13 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:15 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:17 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:16:17 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:19 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:20 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 399}
+Wed, 20 Dec 2017 18:16:22 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:24 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:26 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:28 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:30 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:32 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:35 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:37 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:38 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:16:39 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:41 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 400}
+Wed, 20 Dec 2017 18:16:41 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:43 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:45 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:47 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:49 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:52 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:57 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:16:59 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:17:04 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 401}
+Wed, 20 Dec 2017 18:17:05 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:10 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:12 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:14 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:16 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:19 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:21 [root-INFO]:Heart
+Wed, 20 Dec 2017 18:17:22 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:17:28 [root-INFO]:{'state': 'done', 'name': 'camera._takePicture', 'sequence': 402}
+Wed, 20 Dec 2017 18:17:46 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:17:48 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:17:48 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:18:06 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:18:08 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:18:09 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:18:27 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:18:30 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:18:34 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:18:52 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:18:55 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:18:55 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:19:13 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:19:15 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:19:15 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:19:33 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:19:35 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:19:36 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:19:54 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:19:56 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:19:56 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:20:14 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:20:17 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:20:17 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:20:35 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:20:39 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:20:39 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:20:57 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:20:59 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:20:59 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:21:17 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:21:19 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:21:19 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:21:37 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:21:40 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:21:40 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:21:58 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:22:00 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:22:00 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:22:18 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:22:20 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:22:20 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:22:38 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:22:41 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:22:41 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:22:59 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:23:01 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:23:01 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:23:19 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:23:21 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:23:21 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:23:39 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:23:42 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:23:42 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:24:00 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:24:03 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:24:04 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:24:22 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:24:25 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:24:25 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:24:43 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:24:46 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:24:46 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:25:04 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:25:06 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:25:06 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:25:24 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:25:26 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:25:27 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:25:45 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:25:47 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:25:47 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:26:05 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:26:07 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:26:07 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:26:25 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:26:27 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:26:27 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:26:45 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:26:48 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:26:48 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:27:06 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:27:08 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:27:08 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:27:26 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:27:29 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:27:29 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:27:47 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:27:50 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:27:50 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:28:08 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:28:10 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:28:10 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:28:28 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:28:32 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'delay': 0, 'origin': {'saveOrigin': 'true', 'width': 4000, 'mime': 'jpeg', 'height': 3000}, 'stiching': {'width': 7680, 'mime': 'jpeg', 'mode': '3d_top_left', 'height': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}
+Wed, 20 Dec 2017 18:28:33 [root-INFO]:reconnect ..!
+Wed, 20 Dec 2017 18:28:51 [root-WARNING]:TakePic
+Wed, 20 Dec 2017 18:28:53 [root-INFO]:{'state': 'exception', 'name': {'name': 'camera._takePicture', 'parameters': {'origin': {'saveOrigin': 'true', 'height': 3000, 'mime': 'jpeg', 'width': 4000}, 'stiching': {'height': 3840, 'mime': 'jpeg', 'mode': 'pano', 'width': 7680}}}, 'error': {'description': 'camera not connected', 'code': 'disabledCommand'}}

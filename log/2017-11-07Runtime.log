@@ -1,0 +1,360 @@
+Tue, 07 Nov 2017 18:20:35 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:44 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:20:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:50 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 5, 'state': 'done'}
+Tue, 07 Nov 2017 18:20:52 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:54 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 6, 'state': 'done'}
+Tue, 07 Nov 2017 18:20:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:20:57 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 7, 'state': 'done'}
+Tue, 07 Nov 2017 18:20:58 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:05 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:30 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:33 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:35 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:38 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:38 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:21:41 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:44 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:45 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 13, 'state': 'done'}
+Tue, 07 Nov 2017 18:21:47 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:49 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 14, 'state': 'done'}
+Tue, 07 Nov 2017 18:21:50 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:21:57 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:00 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:03 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:06 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:18 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:22:24 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:24:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:24:34 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:24:39 [root-INFO]:{'name': {'name': 'camera._setOptions', 'parameters': {'property': 'wb', 'value': 4}}, 'error': {'description': 'error fingerprint none', 'code': 'invalidParameterValue'}, 'state': 'exception'}
+Tue, 07 Nov 2017 18:24:41 [root-INFO]:{'name': {'name': 'camera._setOptions', 'parameters': {'property': 'ev_bias', 'value': 63}}, 'error': {'description': 'error fingerprint none', 'code': 'invalidParameterValue'}, 'state': 'exception'}
+Tue, 07 Nov 2017 18:24:43 [root-INFO]:{'name': {'name': 'camera._takePicture', 'parameters': {'stiching': {'mode': '3d_top_left', 'width': 7680, 'height': 7680, 'mime': 'jpeg'}, 'origin': {'width': 4000, 'height': 3000, 'saveOrigin': 'true', 'mime': 'jpeg'}, 'delay': 0}}, 'error': {'description': 'error fingerprint none', 'code': 'invalidParameterValue'}, 'state': 'exception'}
+Tue, 07 Nov 2017 18:24:45 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:15 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:18 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:25:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:25 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 27, 'state': 'done'}
+Tue, 07 Nov 2017 18:25:26 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:27 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 28, 'state': 'done'}
+Tue, 07 Nov 2017 18:25:29 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:31 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 29, 'state': 'done'}
+Tue, 07 Nov 2017 18:25:32 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:36 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:39 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:42 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:45 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:48 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:25:57 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:00 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:03 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:06 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:06 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:26:09 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:12 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:13 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 33, 'state': 'done'}
+Tue, 07 Nov 2017 18:26:15 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:17 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 34, 'state': 'done'}
+Tue, 07 Nov 2017 18:26:18 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:52 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:26:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:57 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:26:59 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 38, 'state': 'done'}
+Tue, 07 Nov 2017 18:27:00 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:02 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 39, 'state': 'done'}
+Tue, 07 Nov 2017 18:27:03 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:07 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:10 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:38 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:27:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:45 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 43, 'state': 'done'}
+Tue, 07 Nov 2017 18:27:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:48 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 44, 'state': 'done'}
+Tue, 07 Nov 2017 18:27:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:53 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:56 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:27:59 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:05 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:14 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:26 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:26 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:28:29 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:32 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:35 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 49, 'state': 'done'}
+Tue, 07 Nov 2017 18:28:36 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:37 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 50, 'state': 'done'}
+Tue, 07 Nov 2017 18:28:39 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:41 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 51, 'state': 'done'}
+Tue, 07 Nov 2017 18:28:42 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:52 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:28:58 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:01 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:04 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:07 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:10 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:22 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:29:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:30 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 57, 'state': 'done'}
+Tue, 07 Nov 2017 18:29:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:33 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 58, 'state': 'done'}
+Tue, 07 Nov 2017 18:29:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:38 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:41 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:44 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:47 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:50 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:53 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:56 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:29:59 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:05 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:05 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:30:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:12 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 61, 'state': 'done'}
+Tue, 07 Nov 2017 18:30:14 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:16 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 62, 'state': 'done'}
+Tue, 07 Nov 2017 18:30:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:21 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:24 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:27 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:30 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:33 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:36 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:39 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:42 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:45 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:48 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:57 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:30:58 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:31:00 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:03 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:04 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 68, 'state': 'done'}
+Tue, 07 Nov 2017 18:31:06 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:08 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 69, 'state': 'done'}
+Tue, 07 Nov 2017 18:31:09 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:40 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:31:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:47 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 72, 'state': 'done'}
+Tue, 07 Nov 2017 18:31:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:50 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 73, 'state': 'done'}
+Tue, 07 Nov 2017 18:31:52 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:54 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 74, 'state': 'done'}
+Tue, 07 Nov 2017 18:31:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:31:59 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:05 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:14 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:26 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:29 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:32 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:32 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:32:35 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:38 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:39 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 79, 'state': 'done'}
+Tue, 07 Nov 2017 18:32:41 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:43 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 80, 'state': 'done'}
+Tue, 07 Nov 2017 18:32:44 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:48 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:56 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:32:58 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:01 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:04 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:07 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:10 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:19 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:33:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:26 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 84, 'state': 'done'}
+Tue, 07 Nov 2017 18:33:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:30 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 85, 'state': 'done'}
+Tue, 07 Nov 2017 18:33:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:35 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:38 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:41 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:44 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:47 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:50 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:53 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:56 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:33:59 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:06 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:06 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:34:09 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:12 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:13 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 89, 'state': 'done'}
+Tue, 07 Nov 2017 18:34:15 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:16 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 90, 'state': 'done'}
+Tue, 07 Nov 2017 18:34:18 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:20 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 91, 'state': 'done'}
+Tue, 07 Nov 2017 18:34:21 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:52 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:34:58 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:01 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:01 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:35:04 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:07 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:08 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 97, 'state': 'done'}
+Tue, 07 Nov 2017 18:35:10 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:12 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 98, 'state': 'done'}
+Tue, 07 Nov 2017 18:35:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:26 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:30 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:33 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:36 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:39 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:42 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:45 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:48 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:54 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:35:54 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:35:57 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:00 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:01 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 104, 'state': 'done'}
+Tue, 07 Nov 2017 18:36:03 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:04 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 105, 'state': 'done'}
+Tue, 07 Nov 2017 18:36:06 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:08 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 106, 'state': 'done'}
+Tue, 07 Nov 2017 18:36:09 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:13 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:16 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:19 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:22 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:25 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:28 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:31 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:34 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:37 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:40 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:43 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:43 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:36:46 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:49 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:50 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 110, 'state': 'done'}
+Tue, 07 Nov 2017 18:36:52 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:54 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 111, 'state': 'done'}
+Tue, 07 Nov 2017 18:36:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:36:59 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:02 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:05 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:08 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:11 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:14 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:17 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:20 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:23 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:26 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:26 [root-WARNING]:TakePic
+Tue, 07 Nov 2017 18:37:29 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:32 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:33 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 114, 'state': 'done'}
+Tue, 07 Nov 2017 18:37:35 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:36 [root-INFO]:{'name': 'camera._setOptions', 'sequence': 115, 'state': 'done'}
+Tue, 07 Nov 2017 18:37:38 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:41 [root-INFO]:{'name': 'camera._takePicture', 'sequence': 116, 'state': 'done'}
+Tue, 07 Nov 2017 18:37:41 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:45 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:48 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:51 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:55 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:37:58 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:38:01 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:38:04 [root-INFO]:Heart
+Tue, 07 Nov 2017 18:38:07 [root-INFO]:Heart

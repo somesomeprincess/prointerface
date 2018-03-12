@@ -132,13 +132,14 @@ def WBandISO():
 def TakePic(num,interval=40,random=True):
     if(random):
         for i in range(num):
-            #doSetExposureRandom()
+            doSetExposureRandom()
             doSetPropertyRandom()
             takePicAction(interval)
     else:
-        takePicAction(interval)
+        for i in range(num):
+            takePicAction(interval)
 
-def TakePicCircle(num,interval=40,wb=False,evwb=True):
+def TakePicCircle(num,interval=40,wb=False,evwb=False):
     if(wb):
         for value in range(num):
             #wb range is 5
@@ -154,6 +155,9 @@ def TakePicCircle(num,interval=40,wb=False,evwb=True):
                 setOption('ev_bias',ev)
                 setOption('wb', value % 5)
                 takePicAction(interval)
+    else:
+        for value in range(num):
+            takePicAction(interval)
 
 
 
@@ -188,11 +192,11 @@ def takePicAction(interval):
 
     datalist.append(sub_data)
     datalist.append(data8k3d)
-    datalist.append(data_raw)
-    datalist.append(data_hdr)
-    datalist.append(data_burst)
-    datalist.append(data_8kOF)
-    datalist.append(data_8k_3d_OF)
+    # datalist.append(data_raw)
+    # datalist.append(data_hdr)
+    # datalist.append(data_burst)
+    # datalist.append(data_8kOF)
+    # datalist.append(data_8k_3d_OF)
 
     origin_no_sti={"origin": {"bitrate": None, "width": 4000, "height": 3000, "mime": "jpeg", "saveOrigin": 'true', "framerate": None}}
     ranreq=random.choice(datalist)
@@ -200,8 +204,9 @@ def takePicAction(interval):
         doSetExposureRandom(special='hdr')
     elif(ranreq[0]=='burst'):
         doSetExposureRandom(special='burst')
-    else:
-        doSetExposureRandom()
+    # else:
+    #     pass
+        #doSetExposureRandom()
     data = HR.open("camera._takePicture", parameters=ranreq[1])
     #data = HR.open("camera._takePicture", parameters=data_burst)
     logging.info(data)

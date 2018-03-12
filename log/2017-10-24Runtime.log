@@ -1,0 +1,439 @@
+Tue, 24 Oct 2017 10:27:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:27:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:27:56 [root-INFO]:{'sequence': 924, 'name': 'camera._setOptions', 'state': 'error', 'error': {'description': "cann't recv command from module", 'code': -462}}
+Tue, 24 Oct 2017 10:27:57 [root-INFO]:{'sequence': 925, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:27:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:27:58 [root-INFO]:{'sequence': 926, 'name': 'camera._setOptions', 'state': 'error', 'error': {'description': "cann't recv command from module", 'code': -462}}
+Tue, 24 Oct 2017 10:28:00 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:28:02 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:28:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:28:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:32 [root-INFO]:{'sequence': 1009, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:33:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:33:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:17 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:17 [root-INFO]:{'sequence': 1016, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:39:18 [root-INFO]:{'sequence': 1017, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:39:19 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:21 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:39:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:00 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:02 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:04 [root-INFO]:{'sequence': 1021, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:40:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:40:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:15 [root-INFO]:{'sequence': 1045, 'name': 'camera._setOptions', 'state': 'done'}
+Tue, 24 Oct 2017 10:45:16 [root-INFO]:{'sequence': 1046, 'name': 'camera._setOptions', 'state': 'error', 'error': {'description': "cann't recv command from module", 'code': -462}}
+Tue, 24 Oct 2017 10:45:17 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:19 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:21 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:23 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:25 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:45:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:00 [root-INFO]:{'sequence': 1050, 'name': 'camera._setOptions', 'state': 'error', 'error': {'description': "cann't recv command from module", 'code': -462}}
+Tue, 24 Oct 2017 10:46:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:02 [root-INFO]:{'sequence': 1051, 'name': 'camera._setOptions', 'state': 'error', 'error': {'description': "cann't recv command from module", 'code': -462}}
+Tue, 24 Oct 2017 10:46:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:17 [root-INFO]:Heart
+Tue, 24 Oct 2017 10:46:19 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:47 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:49 [root-INFO]:{'sequence': 298, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:27:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:27:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:08 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:10 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:12 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:39 [root-INFO]:{'sequence': 302, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:28:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:40 [root-INFO]:{'sequence': 303, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:28:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:28:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:34 [root-INFO]:{'sequence': 307, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:29:35 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:35 [root-INFO]:{'sequence': 308, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:29:36 [root-INFO]:{'sequence': 309, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:29:37 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:39 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:41 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:43 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:29:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:00 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:02 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:08 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:10 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:12 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:30:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:51 [root-INFO]:{'sequence': 316, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:33:52 [root-INFO]:{'sequence': 317, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:33:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:33:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:10 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:12 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:43 [root-INFO]:{'sequence': 321, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:34:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:34:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:00 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:02 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:17 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:19 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:21 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:23 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:25 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:27 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:29 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:31 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:33 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:35 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:36 [root-INFO]:{'sequence': 325, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:35:37 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:38 [root-INFO]:{'sequence': 326, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:35:39 [root-INFO]:{'sequence': 327, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:35:39 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:41 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:43 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:45 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:47 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:35:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:00 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:02 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:08 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:10 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:12 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:36:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:24 [root-INFO]:{'sequence': 335, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:40:25 [root-INFO]:{'sequence': 336, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:40:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:41 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:43 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:45 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:47 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:40:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:17 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:18 [root-INFO]:{'sequence': 340, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:41:19 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:20 [root-INFO]:{'sequence': 341, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:41:21 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:23 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:41:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:42:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:43:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:43:02 [root-INFO]:{'sequence': 346, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:43:03 [root-INFO]:{'sequence': 347, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:43:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:48:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:48:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:48:11 [root-INFO]:{'sequence': 419, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:48:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:49:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:49:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:49:09 [root-INFO]:{'sequence': 424, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:49:10 [root-INFO]:{'sequence': 425, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:49:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:49:11 [root-INFO]:{'sequence': 426, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:49:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:49 [root-INFO]:{'sequence': 431, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:53:50 [root-INFO]:{'sequence': 432, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:53:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:53:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:44 [root-INFO]:{'sequence': 436, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:54:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:45 [root-INFO]:{'sequence': 437, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:54:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:54 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:56 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:54:58 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:55:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:55:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:55:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:55:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:56:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:56:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:56:53 [root-INFO]:{'sequence': 444, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:56:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:56:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:56:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:04 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:06 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:08 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:10 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:12 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:26 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:43 [root-INFO]:{'sequence': 448, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:57:44 [root-INFO]:{'sequence': 449, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 16:57:44 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:45 [root-INFO]:{'sequence': 450, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 16:57:46 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:48 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:50 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:52 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:57:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:13 [root-INFO]:Heart
+Tue, 24 Oct 2017 16:58:15 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:46:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:46:55 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:46:55 [root-INFO]:{'sequence': 587, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -413, 'description': 'operation not allowed in this state'}}
+Tue, 24 Oct 2017 17:46:56 [root-INFO]:{'sequence': 588, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -413, 'description': 'operation not allowed in this state'}}
+Tue, 24 Oct 2017 17:46:57 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:46:59 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:01 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:03 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:05 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:07 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:09 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:47:11 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:28 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:30 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:30 [root-INFO]:{'sequence': 594, 'state': 'error', 'name': 'camera._setOptions', 'error': {'code': -462, 'description': "cann't recv command from module"}}
+Tue, 24 Oct 2017 17:48:32 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:34 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:36 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:38 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:40 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:42 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:45 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:47 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:48:53 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:18 [root-INFO]:{'sequence': 617, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 17:58:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:45 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:47 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:47 [root-INFO]:{'sequence': 623, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 17:58:48 [root-INFO]:{'sequence': 624, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 17:58:49 [root-INFO]:Heart
+Tue, 24 Oct 2017 17:58:51 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:14 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:16 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:16 [root-INFO]:{'sequence': 630, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 18:03:18 [root-INFO]:{'sequence': 631, 'state': 'done', 'name': 'camera._setOptions'}
+Tue, 24 Oct 2017 18:03:18 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:20 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:22 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:24 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:27 [root-INFO]:Heart
+Tue, 24 Oct 2017 18:03:29 [root-INFO]:Heart

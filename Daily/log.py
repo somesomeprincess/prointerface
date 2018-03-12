@@ -16,6 +16,6 @@ console.setFormatter(formatter)
 logging.getLogger('').addHandler(console)
 #################################################################################################
 
-logging.debug('This is debug message')
+logging.debug(''.join(('This is debug message','a','b')))
 logging.info('This is info message')
 logging.warning('This is warning message')
